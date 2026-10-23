@@ -1,0 +1,172 @@
+{
+  "id": "kindness-hard-day-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 164,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Temukan posisi duduk yang nyaman, atau berbaring jika terasa lebih baik.",
+      "file": "c001.ogg",
+      "durationSec": 10.44
+    },
+    {
+      "index": 2,
+      "text": "Biarkan tangan beristirahat.",
+      "file": "c002.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 3,
+      "text": "Lemaskan mata, atau tutuplah.",
+      "file": "c003.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 4,
+      "text": "Tarik napas perlahan.",
+      "file": "c004.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 5,
+      "text": "Dan hembuskan napas lebih panjang.",
+      "file": "c005.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 6,
+      "text": "Anda tidak perlu berpura-pura semuanya mudah.",
+      "file": "c006.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 7,
+      "text": "Biarkan kelelahan menjadi nyata.",
+      "file": "c007.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 8,
+      "text": "[jeda:31]",
+      "file": "c008.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 9,
+      "text": "Tarik napas penuh perhatian.",
+      "file": "c009.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 10,
+      "text": "Hembuskan tuntutan untuk baik-baik saja.",
+      "file": "c010.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 11,
+      "text": "[jeda:31]",
+      "file": "c011.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 12,
+      "text": "Semoga saya bisa bersikap lembut terhadap diri sendiri malam ini.",
+      "file": "c012.ogg",
+      "durationSec": 9.12
+    },
+    {
+      "index": 13,
+      "text": "Semoga saya bisa beristirahat sebagaimana adanya.",
+      "file": "c013.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 14,
+      "text": "[jeda:31]",
+      "file": "c014.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 15,
+      "text": "Semoga besok hanya meminta apa yang bisa saya berikan.",
+      "file": "c015.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 16,
+      "text": "[jeda:31]",
+      "file": "c016.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 17,
+      "text": "Rasakan tubuh didukung.",
+      "file": "c017.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 18,
+      "text": "Tidak ada yang lebih dibutuhkan pada menit ini.",
+      "file": "c018.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 19,
+      "text": "[jeda:45]",
+      "file": "c019.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 20,
+      "text": "Letakkan tangan di dada, jika membantu.",
+      "file": "c020.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 21,
+      "text": "Kamu sudah melewati ini.",
+      "file": "c021.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 22,
+      "text": "[jeda:38]",
+      "file": "c022.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 23,
+      "text": "Ambil napas dalam satu kali lagi.",
+      "file": "c023.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 24,
+      "text": "Gerakkan jari-jari.",
+      "file": "c024.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 25,
+      "text": "Ketika siap, buka mata.",
+      "file": "c025.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 26,
+      "text": "Bawa sedikit hal ini bersamamu.",
+      "file": "c026.ogg",
+      "durationSec": 5.904
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "confidence-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 192,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Temukan posisi duduk yang nyaman, atau berbaring jika terasa lebih baik.",
+      "file": "c001.ogg",
+      "durationSec": 10.44
+    },
+    {
+      "index": 2,
+      "text": "Biarkan tangan beristirahat.",
+      "file": "c002.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 3,
+      "text": "Lemaskan mata, atau tutuplah.",
+      "file": "c003.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 4,
+      "text": "Ambil napas perlahan masuk.",
+      "file": "c004.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 5,
+      "text": "Dan napas keluar yang lebih panjang.",
+      "file": "c005.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 6,
+      "text": "Rasakan tulang duduk, atau kaki.",
+      "file": "c006.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 7,
+      "text": "Dasar yang stabil di bawah Anda.",
+      "file": "c007.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 8,
+      "text": "[jeda:22]",
+      "file": "c008.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 9,
+      "text": "Panjangkan tulang belakang tanpa mengeras.",
+      "file": "c009.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 10,
+      "text": "Wajah lembut. Perut lembut. Pusat kuat.",
+      "file": "c010.ogg",
+      "durationSec": 9.96
+    },
+    {
+      "index": 11,
+      "text": "[jeda:22]",
+      "file": "c011.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 12,
+      "text": "Coba ucapkan kalimat-kalimat ini secara diam-diam, atau hanya dengarkan.",
+      "file": "c012.ogg",
+      "durationSec": 10.8
+    },
+    {
+      "index": 13,
+      "text": "Saya bisa menghadapi apa yang harus saya hadapi.",
+      "file": "c013.ogg",
+      "durationSec": 7.656
+    },
+    {
+      "index": 14,
+      "text": "[jeda:22]",
+      "file": "c014.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 15,
+      "text": "Saya tidak perlu terburu-buru dalam menjadi.",
+      "file": "c015.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 16,
+      "text": "[jeda:22]",
+      "file": "c016.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 17,
+      "text": "Saya percaya pada langkah jujur saya berikutnya.",
+      "file": "c017.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 18,
+      "text": "[jeda:28]",
+      "file": "c018.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 19,
+      "text": "Bernapaslah dengan keyakinan sebagai kehangatan di dada, bukan sebagai perisai.",
+      "file": "c019.ogg",
+      "durationSec": 11.256
+    },
+    {
+      "index": 20,
+      "text": "[jeda:28]",
+      "file": "c020.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 21,
+      "text": "Bayangkan diri Anda menghadapi satu tantangan biasa dengan ketenangan.",
+      "file": "c021.ogg",
+      "durationSec": 9.624
+    },
+    {
+      "index": 22,
+      "text": "[jeda:33]",
+      "file": "c022.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 23,
+      "text": "Kembali ke pernapasan.",
+      "file": "c023.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 24,
+      "text": "Tenang. Cukup.",
+      "file": "c024.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 25,
+      "text": "[jeda:28]",
+      "file": "c025.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 26,
+      "text": "Ambil satu napas lagi dengan mudah.",
+      "file": "c026.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 27,
+      "text": "Goyangkan jari-jari.",
+      "file": "c027.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 28,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c028.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 29,
+      "text": "Bawa sedikit dari ini bersama Anda.",
+      "file": "c029.ogg",
+      "durationSec": 6.216
+    }
+  ]
+}

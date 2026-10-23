@@ -1,0 +1,166 @@
+{
+  "id": "senses-grounding-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 178,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Jika Anda merasa kacau atau terstimulasi, latihan ini dapat membantu.",
+      "file": "c001.ogg",
+      "durationSec": 10.968
+    },
+    {
+      "index": 2,
+      "text": "Tetap buka mata untuk saat ini, jika itu terasa lebih aman.",
+      "file": "c002.ogg",
+      "durationSec": 9.624
+    },
+    {
+      "index": 3,
+      "text": "Tempatkan kedua kaki di lantai.",
+      "file": "c003.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 4,
+      "text": "[jeda:17]",
+      "file": "c004.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 5,
+      "text": "Sebutkan lima hal yang bisa Anda lihat.",
+      "file": "c005.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 6,
+      "text": "Diam-diam. Ambil waktumu.",
+      "file": "c006.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 7,
+      "text": "[jeda:45]",
+      "file": "c007.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 8,
+      "text": "Sebutkan empat hal yang bisa Anda rasakan atau sentuh.",
+      "file": "c008.ogg",
+      "durationSec": 8.016
+    },
+    {
+      "index": 9,
+      "text": "Pakaian. Kursi. Udara di kulit. Kaki di lantai.",
+      "file": "c009.ogg",
+      "durationSec": 13.512
+    },
+    {
+      "index": 10,
+      "text": "[jeda:39]",
+      "file": "c010.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 11,
+      "text": "Sebutkan tiga suara.",
+      "file": "c011.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 12,
+      "text": "Dekat atau jauh. Lembut atau jelas.",
+      "file": "c012.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 13,
+      "text": "[jeda:39]",
+      "file": "c013.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 14,
+      "text": "Sebutkan dua aroma, atau sekadar perhatikan kualitas udara.",
+      "file": "c014.ogg",
+      "durationSec": 9.936
+    },
+    {
+      "index": 15,
+      "text": "[jeda:28]",
+      "file": "c015.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 16,
+      "text": "Sebutkan satu rasa, atau perasaan di dalam mulut.",
+      "file": "c016.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 17,
+      "text": "[jeda:23]",
+      "file": "c017.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 18,
+      "text": "Anda ada di sini. Di tubuh ini. Di ruangan ini.",
+      "file": "c018.ogg",
+      "durationSec": 11.736
+    },
+    {
+      "index": 19,
+      "text": "Tarik napas selama empat.",
+      "file": "c019.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 20,
+      "text": "Buang napas selama enam.",
+      "file": "c020.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 21,
+      "text": "[jeda:23]",
+      "file": "c021.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 22,
+      "text": "Ambil satu napas lagi dengan mudah.",
+      "file": "c022.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 23,
+      "text": "Gerakkan jari-jari.",
+      "file": "c023.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 24,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c024.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 25,
+      "text": "Bawa sedikit dari ini bersama Anda.",
+      "file": "c025.ogg",
+      "durationSec": 6.216
+    }
+  ]
+}

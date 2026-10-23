@@ -1,0 +1,262 @@
+{
+  "id": "sleep-descent-15",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 233,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang dalam latihan untuk tidur.",
+      "file": "c000.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 1,
+      "text": "Berbaringlah. Jadikan kegelapan sebagai temanmu.",
+      "file": "c001.ogg",
+      "durationSec": 9.528
+    },
+    {
+      "index": 2,
+      "text": "Kamu mungkin tertidur sebelum akhir. Itu adalah keberhasilan.",
+      "file": "c002.ogg",
+      "durationSec": 11.352
+    },
+    {
+      "index": 3,
+      "text": "[jeda:22]",
+      "file": "c003.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 4,
+      "text": "Nafas masuk perlahan.",
+      "file": "c004.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 5,
+      "text": "Nafas keluar lebih panjang.",
+      "file": "c005.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 6,
+      "text": "[jeda:22]",
+      "file": "c006.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 7,
+      "text": "Lepaskan dahi.",
+      "file": "c007.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 8,
+      "text": "[jeda:18]",
+      "file": "c008.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 9,
+      "text": "Lepaskan mata.",
+      "file": "c009.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 10,
+      "text": "[jeda:18]",
+      "file": "c010.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 11,
+      "text": "Lepaskan rahang dan lidah.",
+      "file": "c011.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 12,
+      "text": "[jeda:22]",
+      "file": "c012.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 13,
+      "text": "Bahu meleleh.",
+      "file": "c013.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 14,
+      "text": "[jeda:22]",
+      "file": "c014.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 15,
+      "text": "Lengan berat. Tangan terbuka.",
+      "file": "c015.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 16,
+      "text": "[jeda:22]",
+      "file": "c016.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 17,
+      "text": "Dada lembut. Perut lembut.",
+      "file": "c017.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 18,
+      "text": "[jeda:22]",
+      "file": "c018.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 19,
+      "text": "Pinggul berat.",
+      "file": "c019.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 20,
+      "text": "[jeda:22]",
+      "file": "c020.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 21,
+      "text": "Kaki berat. Kaki kaki berat.",
+      "file": "c021.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 22,
+      "text": "[jeda:27]",
+      "file": "c022.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 23,
+      "text": "Seluruh tubuh tenggelam ke dalam tempat tidur.",
+      "file": "c023.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 24,
+      "text": "[jeda:36]",
+      "file": "c024.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 25,
+      "text": "Pikiran seperti lalu lintas yang jauh.",
+      "file": "c025.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 26,
+      "text": "Anda tidak mengikutinya.",
+      "file": "c026.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 27,
+      "text": "[jeda:45]",
+      "file": "c027.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 28,
+      "text": "Nafas semakin tenang.",
+      "file": "c028.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 29,
+      "text": "[jeda:45]",
+      "file": "c029.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 30,
+      "text": "Lebih gelap. Lebih lembut. Lebih lambat.",
+      "file": "c030.ogg",
+      "durationSec": 9.96
+    },
+    {
+      "index": 31,
+      "text": "[jeda:67]",
+      "file": "c031.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 32,
+      "text": "Tidak ada yang perlu diselesaikan.",
+      "file": "c032.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 33,
+      "text": "[jeda:54]",
+      "file": "c033.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 34,
+      "text": "Aman untuk beristirahat.",
+      "file": "c034.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 35,
+      "text": "[jeda:89]",
+      "file": "c035.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 36,
+      "text": "Aman untuk tidur.",
+      "file": "c036.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 37,
+      "text": "[jeda:112]",
+      "file": "c037.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 38,
+      "text": "Jika Anda masih terjaga, tetap beristirahat dalam napas keluar.",
+      "file": "c038.ogg",
+      "durationSec": 9.84
+    },
+    {
+      "index": 39,
+      "text": "[jeda:89]",
+      "file": "c039.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 40,
+      "text": "Selamat malam.",
+      "file": "c040.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 41,
+      "text": "[jeda:67]",
+      "file": "c041.ogg",
+      "durationSec": 5.544
+    }
+  ]
+}

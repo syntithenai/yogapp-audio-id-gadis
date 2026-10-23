@@ -1,0 +1,172 @@
+{
+  "id": "loving-kindness",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 159,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Duduk dengan nyaman. Rilekskan wajah.",
+      "file": "c000.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 1,
+      "text": "Letakkan tangan di dada jika itu membantu.",
+      "file": "c001.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 2,
+      "text": "Kami akan menawarkan frasa sederhana kebaikan.",
+      "file": "c002.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 3,
+      "text": "Pertama, untuk diri sendiri.",
+      "file": "c003.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 4,
+      "text": "Ulangi diam-diam setelah saya, atau hanya dengarkan.",
+      "file": "c004.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 5,
+      "text": "Semoga saya aman.",
+      "file": "c005.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 6,
+      "text": "Semoga saya sehat.",
+      "file": "c006.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 7,
+      "text": "Semoga saya tenang.",
+      "file": "c007.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 8,
+      "text": "Ulangi lagi, perlahan.",
+      "file": "c008.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 9,
+      "text": "Semoga saya aman.",
+      "file": "c009.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 10,
+      "text": "Semoga saya sehat.",
+      "file": "c010.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 11,
+      "text": "Semoga saya tenang.",
+      "file": "c011.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 12,
+      "text": "Jika itu terasa sulit, tidak apa-apa. Tetap pada keinginan itu sendiri.",
+      "file": "c012.ogg",
+      "durationSec": 12.528
+    },
+    {
+      "index": 13,
+      "text": "Sekarang bayangkan seseorang yang mudah Anda sayangi.",
+      "file": "c013.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 14,
+      "text": "Seorang teman, hewan peliharaan, orang asing yang baik hati.",
+      "file": "c014.ogg",
+      "durationSec": 10.08
+    },
+    {
+      "index": 15,
+      "text": "Bayangkan mereka sebentar.",
+      "file": "c015.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 16,
+      "text": "Semoga Anda aman.",
+      "file": "c016.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 17,
+      "text": "Semoga Anda sehat.",
+      "file": "c017.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 18,
+      "text": "Semoga Anda tenang.",
+      "file": "c018.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 19,
+      "text": "Sekali lagi.",
+      "file": "c019.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 20,
+      "text": "Semoga kamu aman.",
+      "file": "c020.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 21,
+      "text": "Semoga kamu sehat.",
+      "file": "c021.ogg",
+      "durationSec": 0.36
+    },
+    {
+      "index": 22,
+      "text": "Semoga kamu tenang.",
+      "file": "c022.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 23,
+      "text": "Rasakan kehangatan yang muncul. Atau sekadar beristirahat dalam kata-kata.",
+      "file": "c023.ogg",
+      "durationSec": 12.456
+    },
+    {
+      "index": 24,
+      "text": "Kembali ke napas Anda sendiri.",
+      "file": "c024.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 25,
+      "text": "Terima kasih atas latihan Anda.",
+      "file": "c025.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 26,
+      "text": "Buka mata Anda perlahan.",
+      "file": "c026.ogg",
+      "durationSec": 5.064
+    }
+  ]
+}

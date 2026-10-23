@@ -1,0 +1,274 @@
+{
+  "id": "focus-steady-10",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 226,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Luangkan waktu untuk tiba.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Duduk atau berbaring dengan dukungan.",
+      "file": "c002.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 3,
+      "text": "Tutup mata jika terasa aman.",
+      "file": "c003.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 4,
+      "text": "Rasakan kontak dengan tanah.",
+      "file": "c004.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 5,
+      "text": "Tarik napas perlahan.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "Nafas keluar lebih panjang.",
+      "file": "c006.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 7,
+      "text": "[jeda:21]",
+      "file": "c007.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 8,
+      "text": "Lagi.",
+      "file": "c008.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 9,
+      "text": "[jeda:21]",
+      "file": "c009.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 10,
+      "text": "Biarkan bahu turun.",
+      "file": "c010.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 11,
+      "text": "Biarkan perut melunak.",
+      "file": "c011.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 12,
+      "text": "[jeda:26]",
+      "file": "c012.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 13,
+      "text": "Pilih napas di lubang hidung sebagai titik fokus Anda.",
+      "file": "c013.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 14,
+      "text": "Tetap pada perasaan udara.",
+      "file": "c014.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 15,
+      "text": "[jeda:26]",
+      "file": "c015.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 16,
+      "text": "Hitung setiap napas keluar dari satu hingga sepuluh.",
+      "file": "c016.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 17,
+      "text": "Jika Anda kehilangan hitungan, mulai lagi dari satu tanpa menyalahkan diri sendiri.",
+      "file": "c017.ogg",
+      "durationSec": 11.856
+    },
+    {
+      "index": 18,
+      "text": "[jeda:21]",
+      "file": "c018.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 19,
+      "text": "Satu.",
+      "file": "c019.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 20,
+      "text": "[jeda:21]",
+      "file": "c020.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 21,
+      "text": "Dua.",
+      "file": "c021.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 22,
+      "text": "[jeda:21]",
+      "file": "c022.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 23,
+      "text": "Tiga.",
+      "file": "c023.ogg",
+      "durationSec": 2.736
+    },
+    {
+      "index": 24,
+      "text": "[jeda:21]",
+      "file": "c024.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 25,
+      "text": "Empat.",
+      "file": "c025.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 26,
+      "text": "[jeda:21]",
+      "file": "c026.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 27,
+      "text": "Lima.",
+      "file": "c027.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 28,
+      "text": "[jeda:21]",
+      "file": "c028.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 29,
+      "text": "Lanjutkan diam-diam hingga sepuluh, lalu mulai dari satu.",
+      "file": "c029.ogg",
+      "durationSec": 9.072
+    },
+    {
+      "index": 30,
+      "text": "[jeda:90]",
+      "file": "c030.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 31,
+      "text": "Hentikan penghitungan.",
+      "file": "c031.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 32,
+      "text": "Beristirahat dalam perhatian murni pada napas.",
+      "file": "c032.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 33,
+      "text": "[jeda:79]",
+      "file": "c033.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 34,
+      "text": "Ketegasan tanpa kekerasan.",
+      "file": "c034.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 35,
+      "text": "[jeda:42]",
+      "file": "c035.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 36,
+      "text": "[jeda:32]",
+      "file": "c036.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 37,
+      "text": "Mulai dalamkan napas.",
+      "file": "c037.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 38,
+      "text": "Beristirahat di sini.",
+      "file": "c038.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 39,
+      "text": "[jeda:44]",
+      "file": "c039.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 40,
+      "text": "Rasakan ruangan lagi.",
+      "file": "c040.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 41,
+      "text": "Gerakkan jari tangan dan kaki.",
+      "file": "c041.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 42,
+      "text": "Ketika siap, buka mata.",
+      "file": "c042.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 43,
+      "text": "Bergerak perlahan ke apa yang datang selanjutnya.",
+      "file": "c043.ogg",
+      "durationSec": 6.744
+    }
+  ]
+}

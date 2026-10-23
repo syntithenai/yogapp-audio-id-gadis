@@ -1,0 +1,226 @@
+{
+  "id": "mountain-still-10",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 205,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Luangkan waktu untuk tiba.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Duduk atau berbaring dengan dukungan.",
+      "file": "c002.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 3,
+      "text": "Tutup mata jika terasa aman.",
+      "file": "c003.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 4,
+      "text": "Rasakan kontak dengan tanah.",
+      "file": "c004.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 5,
+      "text": "Nafas masuk perlahan.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "Nafas keluar lebih panjang.",
+      "file": "c006.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 7,
+      "text": "[jeda:28]",
+      "file": "c007.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 8,
+      "text": "Lagi.",
+      "file": "c008.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 9,
+      "text": "[jeda:28]",
+      "file": "c009.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 10,
+      "text": "Biarkan bahu turun.",
+      "file": "c010.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 11,
+      "text": "Biarkan perut melunak.",
+      "file": "c011.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 12,
+      "text": "[jeda:36]",
+      "file": "c012.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 13,
+      "text": "Bayangkan dirimu sebagai gunung.",
+      "file": "c013.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 14,
+      "text": "Dasar lebar. Puncak tenang. Kesabaran luas.",
+      "file": "c014.ogg",
+      "durationSec": 11.496
+    },
+    {
+      "index": 15,
+      "text": "[jeda:43]",
+      "file": "c015.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 16,
+      "text": "Cuaca bergerak melintasi gunung.",
+      "file": "c016.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 17,
+      "text": "Matahari. Angin. Awan. Badai.",
+      "file": "c017.ogg",
+      "durationSec": 11.64
+    },
+    {
+      "index": 18,
+      "text": "Gunung tetap ada.",
+      "file": "c018.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 19,
+      "text": "[jeda:57]",
+      "file": "c019.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 20,
+      "text": "Pikiran dan suasana hati adalah cuaca.",
+      "file": "c020.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 21,
+      "text": "Kamu adalah gunung.",
+      "file": "c021.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 22,
+      "text": "[jeda:57]",
+      "file": "c022.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 23,
+      "text": "Rasakan dasar tubuhmu yang tertanam.",
+      "file": "c023.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 24,
+      "text": "Rasakan tinggi di tulang belakang tanpa ketegangan.",
+      "file": "c024.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 25,
+      "text": "[jeda:43]",
+      "file": "c025.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 26,
+      "text": "Bernapas seperti langit di sekitar gunung.",
+      "file": "c026.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 27,
+      "text": "[jeda:71]",
+      "file": "c027.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 28,
+      "text": "Stabil. Tenang. Cukup.",
+      "file": "c028.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 29,
+      "text": "[jeda:90]",
+      "file": "c029.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 30,
+      "text": "[jeda:43]",
+      "file": "c030.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 31,
+      "text": "Mulai dalamkan napas.",
+      "file": "c031.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 32,
+      "text": "Rasakan ruangan lagi.",
+      "file": "c032.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 33,
+      "text": "Goyangkan jari tangan dan kaki.",
+      "file": "c033.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 34,
+      "text": "Saat siap, buka mata.",
+      "file": "c034.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 35,
+      "text": "Bergerak perlahan ke hal berikutnya.",
+      "file": "c035.ogg",
+      "durationSec": 5.544
+    }
+  ]
+}

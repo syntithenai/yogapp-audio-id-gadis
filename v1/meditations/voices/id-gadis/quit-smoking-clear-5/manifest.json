@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-clear-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 293,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Ini adalah latihan napas yang jernih.",
+      "file": "c001.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 2,
+      "text": "Temukan posisi duduk yang nyaman, atau berbaring jika terasa lebih baik.",
+      "file": "c002.ogg",
+      "durationSec": 10.44
+    },
+    {
+      "index": 3,
+      "text": "Biarkan tangan beristirahat.",
+      "file": "c003.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 4,
+      "text": "Lemaskan mata, atau tutuplah.",
+      "file": "c004.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 5,
+      "text": "Ambil napas perlahan melalui hidung.",
+      "file": "c005.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 6,
+      "text": "Dan napas keluar yang lebih panjang.",
+      "file": "c006.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 7,
+      "text": "[jeda:10]",
+      "file": "c007.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 8,
+      "text": "Perhatikan udara seperti apa adanya.",
+      "file": "c008.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 9,
+      "text": "Dingin saat menghirup.",
+      "file": "c009.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 10,
+      "text": "Hangat saat menghembuskan.",
+      "file": "c010.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 11,
+      "text": "Tidak ada asap. Tidak ada racun. Hanya napas.",
+      "file": "c011.ogg",
+      "durationSec": 11.28
+    },
+    {
+      "index": 12,
+      "text": "[jeda:12]",
+      "file": "c012.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 13,
+      "text": "Rasakan dada mengembang tanpa usaha.",
+      "file": "c013.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 14,
+      "text": "Rasakan tulang rusuk melebar sedikit.",
+      "file": "c014.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 15,
+      "text": "[jeda:12]",
+      "file": "c015.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 16,
+      "text": "Letakkan satu tangan di dada, atau letakkan kedua tangan di pangkuan.",
+      "file": "c016.ogg",
+      "durationSec": 9.984
+    },
+    {
+      "index": 17,
+      "text": "Rasakan tubuh yang sedang sembuh.",
+      "file": "c017.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 18,
+      "text": "Paru-paru bersih. Darah lebih lancar. Indra penciuman kembali, hari demi hari.",
+      "file": "c018.ogg",
+      "durationSec": 15.576
+    },
+    {
+      "index": 19,
+      "text": "[jeda:16]",
+      "file": "c019.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 20,
+      "text": "Coba ucapkan frasa-frasa ini secara diam-diam, atau hanya dengarkan.",
+      "file": "c020.ogg",
+      "durationSec": 10.68
+    },
+    {
+      "index": 21,
+      "text": "Nafasku milikku.",
+      "file": "c021.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 22,
+      "text": "[jeda:12]",
+      "file": "c022.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 23,
+      "text": "Aku memilih udara bersih.",
+      "file": "c023.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 24,
+      "text": "[jeda:12]",
+      "file": "c024.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 25,
+      "text": "Aku sudah selesai dengan racun itu.",
+      "file": "c025.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 26,
+      "text": "[jeda:14]",
+      "file": "c026.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 27,
+      "text": "Bayangkan momen biasa berikutnya tanpa rokok.",
+      "file": "c027.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 28,
+      "text": "Kopi. Berjalan-jalan. Jeda setelah makan.",
+      "file": "c028.ogg",
+      "durationSec": 10.848
+    },
+    {
+      "index": 29,
+      "text": "Bayangkan dirimu menyelesaikan momen itu, sudah bebas.",
+      "file": "c029.ogg",
+      "durationSec": 8.856
+    },
+    {
+      "index": 30,
+      "text": "[jeda:22]",
+      "file": "c030.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 31,
+      "text": "Jika muncul kenangan merokok, biarkan jadi gambar, bukan rencana.",
+      "file": "c031.ogg",
+      "durationSec": 10.416
+    },
+    {
+      "index": 32,
+      "text": "Kembali ke tarikan napas ini.",
+      "file": "c032.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 33,
+      "text": "Kembali ke buangan napas ini.",
+      "file": "c033.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 34,
+      "text": "[jeda:14]",
+      "file": "c034.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 35,
+      "text": "Tarik napas kebebasan.",
+      "file": "c035.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 36,
+      "text": "Buang napas cerita kebiasaan lama.",
+      "file": "c036.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 37,
+      "text": "[jeda:14]",
+      "file": "c037.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 38,
+      "text": "Anda telah mengambil keputusan yang penting.",
+      "file": "c038.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 39,
+      "text": "Tubuh Anda menyusul kebenaran itu.",
+      "file": "c039.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 40,
+      "text": "[jeda:12]",
+      "file": "c040.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 41,
+      "text": "Ambil satu napas dalam yang jernih lagi.",
+      "file": "c041.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 42,
+      "text": "Dan napas panjang yang mudah keluar.",
+      "file": "c042.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 43,
+      "text": "Goyangkan jari-jari tangan.",
+      "file": "c043.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 44,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c044.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 45,
+      "text": "Bawa udara jernih ini bersama Anda.",
+      "file": "c045.ogg",
+      "durationSec": 6.432
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "soft-belly-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 184,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Temukan posisi duduk yang nyaman, atau berbaring jika terasa lebih baik.",
+      "file": "c001.ogg",
+      "durationSec": 10.44
+    },
+    {
+      "index": 2,
+      "text": "Biarkan tangan beristirahat.",
+      "file": "c002.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 3,
+      "text": "Lemaskan mata, atau tutuplah.",
+      "file": "c003.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 4,
+      "text": "Ambil napas perlahan masuk.",
+      "file": "c004.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 5,
+      "text": "Dan napas keluar yang lebih panjang.",
+      "file": "c005.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 6,
+      "text": "Letakkan satu tangan di perut bagian bawah jika Anda mau.",
+      "file": "c006.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 7,
+      "text": "Perhatikan apakah perut menahan ketegangan.",
+      "file": "c007.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 8,
+      "text": "[jeda:20]",
+      "file": "c008.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 9,
+      "text": "Pada tarikan napas berikutnya, biarkan perut mengembang.",
+      "file": "c009.ogg",
+      "durationSec": 8.592
+    },
+    {
+      "index": 10,
+      "text": "Pada buang napas, biarkan perut turun tanpa menekan.",
+      "file": "c010.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 11,
+      "text": "[jeda:20]",
+      "file": "c011.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 12,
+      "text": "Sekali lagi. Perut lembut masuk.",
+      "file": "c012.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 13,
+      "text": "Perut lembut keluar.",
+      "file": "c013.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 14,
+      "text": "[jeda:25]",
+      "file": "c014.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 15,
+      "text": "Jika pikiran berdebat, biarkan tubuh yang memimpin.",
+      "file": "c015.ogg",
+      "durationSec": 8.448
+    },
+    {
+      "index": 16,
+      "text": "Pengembangan. Pelepasan.",
+      "file": "c016.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 17,
+      "text": "[jeda:29]",
+      "file": "c017.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 18,
+      "text": "Bahu turun.",
+      "file": "c018.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 19,
+      "text": "Rahang rileks.",
+      "file": "c019.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 20,
+      "text": "Perut bebas.",
+      "file": "c020.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 21,
+      "text": "[jeda:25]",
+      "file": "c021.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 22,
+      "text": "Tetap dengan sepuluh napas perut lembut yang tenang.",
+      "file": "c022.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 23,
+      "text": "[jeda:45]",
+      "file": "c023.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 24,
+      "text": "Perhatikan kenyamanan yang muncul.",
+      "file": "c024.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 25,
+      "text": "[jeda:20]",
+      "file": "c025.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 26,
+      "text": "Beristirahat di sini.",
+      "file": "c026.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 27,
+      "text": "[jeda:27]",
+      "file": "c027.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 28,
+      "text": "Ambil satu napas lagi dengan mudah.",
+      "file": "c028.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 29,
+      "text": "Goyangkan jari-jari.",
+      "file": "c029.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 30,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c030.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 31,
+      "text": "Bawa sedikit dari ini bersama Anda.",
+      "file": "c031.ogg",
+      "durationSec": 6.216
+    }
+  ]
+}

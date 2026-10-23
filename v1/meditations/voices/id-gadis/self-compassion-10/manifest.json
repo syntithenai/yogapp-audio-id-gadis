@@ -1,0 +1,250 @@
+{
+  "id": "self-compassion-10",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 234,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Luangkan waktu untuk tiba.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Duduk atau berbaring dengan dukungan.",
+      "file": "c002.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 3,
+      "text": "Tutup mata jika terasa aman.",
+      "file": "c003.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 4,
+      "text": "Rasakan kontak dengan tanah.",
+      "file": "c004.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 5,
+      "text": "Tarik napas perlahan.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "Nafas keluar lebih panjang.",
+      "file": "c006.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 7,
+      "text": "[jeda:26]",
+      "file": "c007.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 8,
+      "text": "Lagi.",
+      "file": "c008.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 9,
+      "text": "[jeda:26]",
+      "file": "c009.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 10,
+      "text": "Biarkan bahu turun.",
+      "file": "c010.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 11,
+      "text": "Biarkan perut melunak.",
+      "file": "c011.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 12,
+      "text": "[jeda:32]",
+      "file": "c012.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 13,
+      "text": "Letakkan tangan di dada, jika membantu.",
+      "file": "c013.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 14,
+      "text": "Perhatikan keadaan Anda tanpa penilaian.",
+      "file": "c014.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 15,
+      "text": "[jeda:32]",
+      "file": "c015.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 16,
+      "text": "Ini adalah saat penderitaan, atau tekanan manusia biasa.",
+      "file": "c016.ogg",
+      "durationSec": 9.24
+    },
+    {
+      "index": 17,
+      "text": "Orang lain juga merasakan ini.",
+      "file": "c017.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 18,
+      "text": "[jeda:39]",
+      "file": "c018.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 19,
+      "text": "Semoga saya bisa bersikap baik kepada diri sendiri saat ini.",
+      "file": "c019.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 20,
+      "text": "[jeda:32]",
+      "file": "c020.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 21,
+      "text": "Semoga aku menerima diriku apa adanya.",
+      "file": "c021.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 22,
+      "text": "[jeda:32]",
+      "file": "c022.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 23,
+      "text": "Semoga aku memberikan kasih sayang yang kubutuhkan kepada diriku sendiri.",
+      "file": "c023.ogg",
+      "durationSec": 9.864
+    },
+    {
+      "index": 24,
+      "text": "[jeda:39]",
+      "file": "c024.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 25,
+      "text": "Ulangi frasa yang terasa. Tinggalkan yang tidak terasa.",
+      "file": "c025.ogg",
+      "durationSec": 9.696
+    },
+    {
+      "index": 26,
+      "text": "[jeda:52]",
+      "file": "c026.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 27,
+      "text": "Bayangkan berbicara pada dirimu sendiri sebagaimana teman bijak akan berbicara.",
+      "file": "c027.ogg",
+      "durationSec": 10.704
+    },
+    {
+      "index": 28,
+      "text": "Apa nada yang akan mereka gunakan?",
+      "file": "c028.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 29,
+      "text": "Berikan dirimu nada itu sekarang.",
+      "file": "c029.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 30,
+      "text": "[jeda:65]",
+      "file": "c030.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 31,
+      "text": "Tarik napas kebaikan.",
+      "file": "c031.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 32,
+      "text": "Buang napas kekerasan.",
+      "file": "c032.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 33,
+      "text": "[jeda:78]",
+      "file": "c033.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 34,
+      "text": "[jeda:39]",
+      "file": "c034.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 35,
+      "text": "Mulailah memperdalam napas.",
+      "file": "c035.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 36,
+      "text": "Rasakan ruangan lagi.",
+      "file": "c036.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 37,
+      "text": "Gerakkan jari tangan dan kaki.",
+      "file": "c037.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 38,
+      "text": "Saat siap, buka mata.",
+      "file": "c038.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 39,
+      "text": "Bergerak perlahan ke hal berikutnya.",
+      "file": "c039.ogg",
+      "durationSec": 5.544
+    }
+  ]
+}

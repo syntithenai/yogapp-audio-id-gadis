@@ -1,0 +1,610 @@
+{
+  "id": "deep-rest-20",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 535,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang di praktik istirahat mendalam.",
+      "file": "c000.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 1,
+      "text": "Berbaringlah telentang jika memungkinkan.",
+      "file": "c001.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 2,
+      "text": "Dukung kepala dan lutut jika membantu.",
+      "file": "c002.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 3,
+      "text": "Biarkan lengan beristirahat di sisi tubuh, telapak tangan rileks.",
+      "file": "c003.ogg",
+      "durationSec": 9.6
+    },
+    {
+      "index": 4,
+      "text": "Tutup mata.",
+      "file": "c004.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 5,
+      "text": "Tidak ada tempat lain untuk berada.",
+      "file": "c005.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 6,
+      "text": "[jeda:23]",
+      "file": "c006.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 7,
+      "text": "Rasakan titik-titik kontak dengan lantai atau tempat tidur.",
+      "file": "c007.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 8,
+      "text": "Tumit. Pinggul. Tulang belikat. Kepala.",
+      "file": "c008.ogg",
+      "durationSec": 11.448
+    },
+    {
+      "index": 9,
+      "text": "Biarkan tubuh didukung.",
+      "file": "c009.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 10,
+      "text": "[jeda:23]",
+      "file": "c010.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 11,
+      "text": "Perhatikan napas alami.",
+      "file": "c011.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 12,
+      "text": "Tidak perlu mengubahnya.",
+      "file": "c012.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 13,
+      "text": "Napas masuk.",
+      "file": "c013.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 14,
+      "text": "Napas keluar.",
+      "file": "c014.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 15,
+      "text": "[jeda:25]",
+      "file": "c015.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 16,
+      "text": "Jika pikiran sibuk, itu diperbolehkan.",
+      "file": "c016.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 17,
+      "text": "Kamu tetap bisa beristirahat.",
+      "file": "c017.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 18,
+      "text": "Kembalilah ke sensasi secara terus-menerus.",
+      "file": "c018.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 19,
+      "text": "[jeda:23]",
+      "file": "c019.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 20,
+      "text": "Bawa kesadaran ke kaki kanan.",
+      "file": "c020.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 21,
+      "text": "Jari kaki. Telapak. Tumit.",
+      "file": "c021.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 22,
+      "text": "[jeda:21]",
+      "file": "c022.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 23,
+      "text": "Kaki bagian bawah kanan.",
+      "file": "c023.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 24,
+      "text": "Lutut.",
+      "file": "c024.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 25,
+      "text": "Paha.",
+      "file": "c025.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 26,
+      "text": "[jeda:21]",
+      "file": "c026.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 27,
+      "text": "Pinggul kanan.",
+      "file": "c027.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 28,
+      "text": "Seluruh kaki kanan, berat dan tenang.",
+      "file": "c028.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 29,
+      "text": "[jeda:23]",
+      "file": "c029.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 30,
+      "text": "Kaki kiri.",
+      "file": "c030.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 31,
+      "text": "Jari kaki. Telapak. Tumit.",
+      "file": "c031.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 32,
+      "text": "[jeda:21]",
+      "file": "c032.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 33,
+      "text": "Kaki bagian bawah kiri.",
+      "file": "c033.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 34,
+      "text": "Lutut.",
+      "file": "c034.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 35,
+      "text": "Paha.",
+      "file": "c035.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 36,
+      "text": "[jeda:21]",
+      "file": "c036.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 37,
+      "text": "Pinggul kiri.",
+      "file": "c037.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 38,
+      "text": "Seluruh kaki kiri, berat dan tenang.",
+      "file": "c038.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 39,
+      "text": "[jeda:23]",
+      "file": "c039.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 40,
+      "text": "Pelvis dan perut bagian bawah.",
+      "file": "c040.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 41,
+      "text": "Lembut.",
+      "file": "c041.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 42,
+      "text": "[jeda:21]",
+      "file": "c042.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 43,
+      "text": "Dada naik turun.",
+      "file": "c043.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 44,
+      "text": "Ruang jantung terbuka dan mudah.",
+      "file": "c044.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 45,
+      "text": "[jeda:23]",
+      "file": "c045.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 46,
+      "text": "Tangan kanan.",
+      "file": "c046.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 47,
+      "text": "Jari. Telapak. Pergelangan tangan.",
+      "file": "c047.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 48,
+      "text": "[jeda:14]",
+      "file": "c048.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 49,
+      "text": "Lengan kanan. Siku. Bahu.",
+      "file": "c049.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 50,
+      "text": "[jeda:21]",
+      "file": "c050.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 51,
+      "text": "Tangan kiri.",
+      "file": "c051.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 52,
+      "text": "Jari. Telapak. Pergelangan tangan.",
+      "file": "c052.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 53,
+      "text": "[jeda:14]",
+      "file": "c053.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 54,
+      "text": "Lengan kiri. Siku. Bahu.",
+      "file": "c054.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 55,
+      "text": "[jeda:23]",
+      "file": "c055.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 56,
+      "text": "Tenggorokan lembut.",
+      "file": "c056.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 57,
+      "text": "Rahang rileks.",
+      "file": "c057.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 58,
+      "text": "Lidah rileks.",
+      "file": "c058.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 59,
+      "text": "[jeda:21]",
+      "file": "c059.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 60,
+      "text": "Mata rileks di dalam orbitnya.",
+      "file": "c060.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 61,
+      "text": "Dahi halus.",
+      "file": "c061.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 62,
+      "text": "Kulit kepala dan mahkota kepala.",
+      "file": "c062.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 63,
+      "text": "[jeda:23]",
+      "file": "c063.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 64,
+      "text": "Rasakan seluruh tubuh sebagai satu bidang ketenangan.",
+      "file": "c064.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 65,
+      "text": "Nafas bergerak melaluinya seperti pasang surut yang tenang.",
+      "file": "c065.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 66,
+      "text": "[jeda:62]",
+      "file": "c066.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 67,
+      "text": "Tetap dengan seluruh tubuh.",
+      "file": "c067.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 68,
+      "text": "[jeda:105]",
+      "file": "c068.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 69,
+      "text": "Lembut. Luas. Tenang.",
+      "file": "c069.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 70,
+      "text": "[jeda:55]",
+      "file": "c070.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 71,
+      "text": "Jika ada pikiran muncul, biarkan seperti awan yang lewat.",
+      "file": "c071.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 72,
+      "text": "[jeda:50]",
+      "file": "c072.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 73,
+      "text": "Kembali ke rasa dirimu dipeluk.",
+      "file": "c073.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 74,
+      "text": "[jeda:55]",
+      "file": "c074.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 75,
+      "text": "Istirahat di sini.",
+      "file": "c075.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 76,
+      "text": "Tidak ada yang perlu diselesaikan.",
+      "file": "c076.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 77,
+      "text": "Tidak ada yang perlu diperbaiki.",
+      "file": "c077.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 78,
+      "text": "[jeda:110]",
+      "file": "c078.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 79,
+      "text": "Jika kamu terbawa, itu tidak apa-apa.",
+      "file": "c079.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 80,
+      "text": "Jika kamu tetap sadar, itu juga baik.",
+      "file": "c080.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 81,
+      "text": "Keduanya adalah istirahat.",
+      "file": "c081.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 82,
+      "text": "[jeda:130]",
+      "file": "c082.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 83,
+      "text": "Istirahat.",
+      "file": "c083.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 84,
+      "text": "[jeda:115]",
+      "file": "c084.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 85,
+      "text": "Mulai sadari napas lagi.",
+      "file": "c085.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 86,
+      "text": "Sekarang sedikit lebih jelas.",
+      "file": "c086.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 87,
+      "text": "[jeda:23]",
+      "file": "c087.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 88,
+      "text": "Rasakan ruangan di sekitarmu.",
+      "file": "c088.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 89,
+      "text": "Suara yang dekat dan jauh.",
+      "file": "c089.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 90,
+      "text": "[jeda:21]",
+      "file": "c090.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 91,
+      "text": "Gerakkan jari-jari.",
+      "file": "c091.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 92,
+      "text": "Gerakkan ujung kaki.",
+      "file": "c092.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 93,
+      "text": "Putar pergelangan tangan dan kaki jika kamu mau.",
+      "file": "c093.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 94,
+      "text": "[jeda:21]",
+      "file": "c094.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 95,
+      "text": "Ambil napas yang lebih dalam.",
+      "file": "c095.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 96,
+      "text": "Dan hembuskan napas panjang.",
+      "file": "c096.ogg",
+      "durationSec": 0.72
+    },
+    {
+      "index": 97,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c097.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 98,
+      "text": "Kembali perlahan.",
+      "file": "c098.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 99,
+      "text": "Bawa sedikit ketenangan ini bersama Anda.",
+      "file": "c099.ogg",
+      "durationSec": 6.84
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-urge-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 296,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Jika ada keinginan, Anda berada di tempat yang tepat.",
+      "file": "c001.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 2,
+      "text": "Anda tidak perlu melawannya atau memberi makan.",
+      "file": "c002.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 3,
+      "text": "Temukan posisi duduk yang stabil, atau berdiri dengan kedua kaki di tanah.",
+      "file": "c003.ogg",
+      "durationSec": 10.92
+    },
+    {
+      "index": 4,
+      "text": "Lemaskan mata, atau pertahankan pandangan lembut.",
+      "file": "c004.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 5,
+      "text": "Ambil napas dalam perlahan.",
+      "file": "c005.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 6,
+      "text": "Dan napas keluar yang lebih panjang.",
+      "file": "c006.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 7,
+      "text": "[jeda:12]",
+      "file": "c007.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 8,
+      "text": "Sebutkan apa yang terjadi, secara sederhana.",
+      "file": "c008.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 9,
+      "text": "Ada keinginan.",
+      "file": "c009.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 10,
+      "text": "Ini adalah gelombang dalam tubuh dan pikiran.",
+      "file": "c010.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 11,
+      "text": "Ini bukan perintah.",
+      "file": "c011.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 12,
+      "text": "[jeda:14]",
+      "file": "c012.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 13,
+      "text": "Perhatikan di mana Anda merasakannya.",
+      "file": "c013.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 14,
+      "text": "Dada. Kepala leher. Tangan. Keserakahn.",
+      "file": "c014.ogg",
+      "durationSec": 12.528
+    },
+    {
+      "index": 15,
+      "text": "Tidak perlu membuatnya lebih besar. Cukup lokalisasikan saja.",
+      "file": "c015.ogg",
+      "durationSec": 10.656
+    },
+    {
+      "index": 16,
+      "text": "[jeda:16]",
+      "file": "c016.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 17,
+      "text": "Tarik napas ke tempat itu.",
+      "file": "c017.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 18,
+      "text": "Hidupkan ruang lembut.",
+      "file": "c018.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 19,
+      "text": "Ekspulsikan tanpa bertindak.",
+      "file": "c019.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 20,
+      "text": "[jeda:16]",
+      "file": "c020.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 21,
+      "text": "Kebutuhan muncul, mencapai puncak, lalu jatuh.",
+      "file": "c021.ogg",
+      "durationSec": 8.4
+    },
+    {
+      "index": 22,
+      "text": "Anda adalah pantai. Ombak melewati Anda.",
+      "file": "c022.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 23,
+      "text": "[jeda:18]",
+      "file": "c023.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 24,
+      "text": "Jika pikiran menawarkan cerita tentang kebutuhan rokok, beri terima kasih dan kembalilah.",
+      "file": "c024.ogg",
+      "durationSec": 11.928
+    },
+    {
+      "index": 25,
+      "text": "Kembali ke napas Anda.",
+      "file": "c025.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 26,
+      "text": "Kembali ke telapak kaki di lantai.",
+      "file": "c026.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 27,
+      "text": "[jeda:16]",
+      "file": "c027.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 28,
+      "text": "Secara diam-diam, jika membantu.",
+      "file": "c028.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 29,
+      "text": "Ini sementara saja.",
+      "file": "c029.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 30,
+      "text": "Saya bisa mengatasinya tanpa merokok.",
+      "file": "c030.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 31,
+      "text": "[jeda:18]",
+      "file": "c031.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 32,
+      "text": "Lagi. Tarik napas lembut.",
+      "file": "c032.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 33,
+      "text": "Ekspulsikan lebih lama.",
+      "file": "c033.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 34,
+      "text": "[jeda:16]",
+      "file": "c034.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 35,
+      "text": "Perhatikan apakah ada rasa lega, bahkan sedikit.",
+      "file": "c035.ogg",
+      "durationSec": 8.232
+    },
+    {
+      "index": 36,
+      "text": "Atau perhatikan bahwa Anda tetap bersama diri sendiri.",
+      "file": "c036.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 37,
+      "text": "Keduanya dihitung.",
+      "file": "c037.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 38,
+      "text": "[jeda:16]",
+      "file": "c038.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 39,
+      "text": "Anda adalah seorang non-perokok yang bertemu dengan gema lama.",
+      "file": "c039.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 40,
+      "text": "Godaan bisa datang. Ia tidak bisa menguasai Anda.",
+      "file": "c040.ogg",
+      "durationSec": 10.032
+    },
+    {
+      "index": 41,
+      "text": "[jeda:14]",
+      "file": "c041.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 42,
+      "text": "Ambil napas mudah lagi.",
+      "file": "c042.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 43,
+      "text": "Goyangkan jari-jari.",
+      "file": "c043.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 44,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c044.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 45,
+      "text": "Lanjutkan hari Anda dengan bebas.",
+      "file": "c045.ogg",
+      "durationSec": 6.168
+    }
+  ]
+}

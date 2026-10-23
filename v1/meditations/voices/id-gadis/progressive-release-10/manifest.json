@@ -1,0 +1,454 @@
+{
+  "id": "progressive-release-10",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 399,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Latihan ini menggunakan ketegangan dan pelepasan yang lembut.",
+      "file": "c001.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 2,
+      "text": "Berbaringlah jika memungkinkan, atau duduk dengan dukungan.",
+      "file": "c002.ogg",
+      "durationSec": 9.288
+    },
+    {
+      "index": 3,
+      "text": "Tutup mata jika terasa aman.",
+      "file": "c003.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 4,
+      "text": "Tidak ada yang perlu dipaksakan. Tetap dalam zona nyaman.",
+      "file": "c004.ogg",
+      "durationSec": 10.08
+    },
+    {
+      "index": 5,
+      "text": "Tarik napas perlahan.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "Dan hembuskan napas lebih panjang.",
+      "file": "c006.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 7,
+      "text": "[jeda:19]",
+      "file": "c007.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 8,
+      "text": "Fokuskan perhatian pada kedua kaki.",
+      "file": "c008.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 9,
+      "text": "Tekuk jari kaki dan kencangkan kaki.",
+      "file": "c009.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 10,
+      "text": "Tahan.",
+      "file": "c010.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 11,
+      "text": "[jeda:19]",
+      "file": "c011.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 12,
+      "text": "Lepaskan.",
+      "file": "c012.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 13,
+      "text": "Rasakan perbedaannya.",
+      "file": "c013.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 14,
+      "text": "[jeda:21]",
+      "file": "c014.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 15,
+      "text": "Kencangkan betis.",
+      "file": "c015.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 16,
+      "text": "Tahan.",
+      "file": "c016.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 17,
+      "text": "[jeda:19]",
+      "file": "c017.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 18,
+      "text": "Lepaskan.",
+      "file": "c018.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 19,
+      "text": "Biarkan kaki bagian bawah terasa berat.",
+      "file": "c019.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 20,
+      "text": "[jeda:21]",
+      "file": "c020.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 21,
+      "text": "Kencangkan paha.",
+      "file": "c021.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 22,
+      "text": "Tahan.",
+      "file": "c022.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 23,
+      "text": "[jeda:19]",
+      "file": "c023.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 24,
+      "text": "Lepaskan.",
+      "file": "c024.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 25,
+      "text": "Paha lembut. Pinggul lembut.",
+      "file": "c025.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 26,
+      "text": "[jeda:21]",
+      "file": "c026.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 27,
+      "text": "Tarik perut secara lembut ke dalam.",
+      "file": "c027.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 28,
+      "text": "Tahan tanpa tekanan.",
+      "file": "c028.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 29,
+      "text": "[jeda:19]",
+      "file": "c029.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 30,
+      "text": "Lepaskan.",
+      "file": "c030.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 31,
+      "text": "Biarkan perut bergerak bebas sesuai napas.",
+      "file": "c031.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 32,
+      "text": "[jeda:21]",
+      "file": "c032.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 33,
+      "text": "Buat tinju lembut. Kencangkan tangan dan lengan depan.",
+      "file": "c033.ogg",
+      "durationSec": 9.288
+    },
+    {
+      "index": 34,
+      "text": "Tahan.",
+      "file": "c034.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 35,
+      "text": "[jeda:19]",
+      "file": "c035.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 36,
+      "text": "Lepaskan.",
+      "file": "c036.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 37,
+      "text": "Jari-jari terbuka. Lengan berat.",
+      "file": "c037.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 38,
+      "text": "[jeda:21]",
+      "file": "c038.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 39,
+      "text": "Angkat bahu ke arah telinga.",
+      "file": "c039.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 40,
+      "text": "Tahan.",
+      "file": "c040.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 41,
+      "text": "[jeda:19]",
+      "file": "c041.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 42,
+      "text": "Turunkan mereka.",
+      "file": "c042.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 43,
+      "text": "Rasakan ruang di bagian punggung atas.",
+      "file": "c043.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 44,
+      "text": "[jeda:21]",
+      "file": "c044.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 45,
+      "text": "Remas wajah dengan lembut. Mata, alis, rahang.",
+      "file": "c045.ogg",
+      "durationSec": 11.28
+    },
+    {
+      "index": 46,
+      "text": "Tahan.",
+      "file": "c046.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 47,
+      "text": "[jeda:19]",
+      "file": "c047.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 48,
+      "text": "Lepaskan.",
+      "file": "c048.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 49,
+      "text": "Dahi rileks. Rahang lembut. Lidah rileks.",
+      "file": "c049.ogg",
+      "durationSec": 11.04
+    },
+    {
+      "index": 50,
+      "text": "[jeda:23]",
+      "file": "c050.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 51,
+      "text": "Sekarang kencangkan seluruh tubuh secara ringan, sebagai satu kesatuan.",
+      "file": "c051.ogg",
+      "durationSec": 10.464
+    },
+    {
+      "index": 52,
+      "text": "Tahan selama satu napas.",
+      "file": "c052.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 53,
+      "text": "[jeda:35]",
+      "file": "c053.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 54,
+      "text": "Lepaskan semuanya.",
+      "file": "c054.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 55,
+      "text": "[jeda:8]",
+      "file": "c055.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 56,
+      "text": "Sekali lagi, tekanan ringan pada seluruh tubuh.",
+      "file": "c056.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 57,
+      "text": "Tahan sebentar.",
+      "file": "c057.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 58,
+      "text": "[jeda:5]",
+      "file": "c058.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 59,
+      "text": "Dan lepaskan sepenuhnya.",
+      "file": "c059.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 60,
+      "text": "Lebih berat sekarang. Lebih lembut sekarang.",
+      "file": "c060.ogg",
+      "durationSec": 8.496
+    },
+    {
+      "index": 61,
+      "text": "Rasakan tubuh menetap ke permukaan di bawah Anda.",
+      "file": "c061.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 62,
+      "text": "[jeda:39]",
+      "file": "c062.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 63,
+      "text": "Beristirahat di sini.",
+      "file": "c063.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 64,
+      "text": "Nafas tenang. Tubuh lembut.",
+      "file": "c064.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 65,
+      "text": "Jika pikiran kembali, tidak apa-apa.",
+      "file": "c065.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 66,
+      "text": "Kembali ke perasaan pelepasan.",
+      "file": "c066.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 67,
+      "text": "[jeda:50]",
+      "file": "c067.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 68,
+      "text": "Tetap lembut.",
+      "file": "c068.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 69,
+      "text": "[jeda:40]",
+      "file": "c069.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 70,
+      "text": "Goyangkan jari tangan dan kaki.",
+      "file": "c070.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 71,
+      "text": "Ambil satu napas lagi dengan mudah.",
+      "file": "c071.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 72,
+      "text": "Ketika siap, buka mata.",
+      "file": "c072.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 73,
+      "text": "Bawa kelembutan ini bersamamu.",
+      "file": "c073.ogg",
+      "durationSec": 5.76
+    }
+  ]
+}

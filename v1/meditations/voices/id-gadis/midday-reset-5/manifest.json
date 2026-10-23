@@ -1,0 +1,190 @@
+{
+  "id": "midday-reset-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 174,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Temukan posisi duduk yang nyaman, atau berbaring jika terasa lebih baik.",
+      "file": "c001.ogg",
+      "durationSec": 10.44
+    },
+    {
+      "index": 2,
+      "text": "Biarkan tangan beristirahat.",
+      "file": "c002.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 3,
+      "text": "Lemaskan mata, atau tutuplah.",
+      "file": "c003.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 4,
+      "text": "Tarik napas perlahan.",
+      "file": "c004.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 5,
+      "text": "Dan hembuskan napas lebih lama.",
+      "file": "c005.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 6,
+      "text": "Biarkan pagi berakhir di sini, meskipun hari masih berlanjut.",
+      "file": "c006.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 7,
+      "text": "Turunkan bahu.",
+      "file": "c007.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 8,
+      "text": "Lepaskan rahang.",
+      "file": "c008.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 9,
+      "text": "[jeda:30]",
+      "file": "c009.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 10,
+      "text": "Tarik napas melalui hidung.",
+      "file": "c010.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 11,
+      "text": "Hembuskan napas melalui mulut, seolah-olah mengaburkan kaca.",
+      "file": "c011.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 12,
+      "text": "Lagi.",
+      "file": "c012.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 13,
+      "text": "[jeda:30]",
+      "file": "c013.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 14,
+      "text": "Bayangkan meletakkan apa pun yang sedang kamu bawa.",
+      "file": "c014.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 15,
+      "text": "Itu bisa menunggu di meja di sampingmu.",
+      "file": "c015.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 16,
+      "text": "[jeda:37]",
+      "file": "c016.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 17,
+      "text": "Rasakan tulang belakang tegak.",
+      "file": "c017.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 18,
+      "text": "Rasakan perut lembut.",
+      "file": "c018.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 19,
+      "text": "[jeda:30]",
+      "file": "c019.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 20,
+      "text": "Tanyakan secara pelan: apa yang penting dalam satu jam ke depan?",
+      "file": "c020.ogg",
+      "durationSec": 9.144
+    },
+    {
+      "index": 21,
+      "text": "Satu langkah selanjutnya yang jelas sudah cukup.",
+      "file": "c021.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 22,
+      "text": "[jeda:44]",
+      "file": "c022.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 23,
+      "text": "Tarik napas sederhana itu masuk.",
+      "file": "c023.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 24,
+      "text": "Buang napas dengan tenang.",
+      "file": "c024.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 25,
+      "text": "[jeda:37]",
+      "file": "c025.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 26,
+      "text": "Ambil satu napas lagi dengan mudah.",
+      "file": "c026.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 27,
+      "text": "Gerakkan jari-jari tangan.",
+      "file": "c027.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 28,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c028.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 29,
+      "text": "Bawa sedikit dari ini bersama Anda.",
+      "file": "c029.ogg",
+      "durationSec": 6.216
+    }
+  ]
+}

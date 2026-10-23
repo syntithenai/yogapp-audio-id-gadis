@@ -1,0 +1,664 @@
+{
+  "id": "forest-path-10",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 837,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Temukan posisi yang tidak meminta apa pun dari Anda.",
+      "file": "c001.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 2,
+      "text": "Duduk, atau berbaring, dengan dukungan apa pun yang Anda butuhkan.",
+      "file": "c002.ogg",
+      "durationSec": 10.392
+    },
+    {
+      "index": 3,
+      "text": "Biarkan tangan Anda beristirahat terbuka atau rileks.",
+      "file": "c003.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 4,
+      "text": "Biarkan mata Anda tertutup, atau pertahankan pandangan yang lembut.",
+      "file": "c004.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 5,
+      "text": "Rasakan tempat-tempat di mana tubuh Anda bersentuhan dengan tanah.",
+      "file": "c005.ogg",
+      "durationSec": 8.928
+    },
+    {
+      "index": 6,
+      "text": "Tumit, tulang duduk, bagian belakang kepala, atau sepanjang tulang belakang.",
+      "file": "c006.ogg",
+      "durationSec": 11.904
+    },
+    {
+      "index": 7,
+      "text": "Tidak ada yang perlu didukung saat ini.",
+      "file": "c007.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 8,
+      "text": "Ambil napas perlahan melalui hidung.",
+      "file": "c008.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 9,
+      "text": "Rasakan kesejukan udara yang datang.",
+      "file": "c009.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 10,
+      "text": "Dan buang napas sedikit lebih lama.",
+      "file": "c010.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 11,
+      "text": "Rasakan kehangatan napas yang keluar.",
+      "file": "c011.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 12,
+      "text": "Sekali lagi. Tarik napas lembut.",
+      "file": "c012.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 13,
+      "text": "Buang napas tanpa terburu-buru.",
+      "file": "c013.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 14,
+      "text": "Biarkan bahu turun sedikit.",
+      "file": "c014.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 15,
+      "text": "Biarkan rahang terlepas.",
+      "file": "c015.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 16,
+      "text": "Biarkan perut tetap lembut.",
+      "file": "c016.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 17,
+      "text": "Tetaplah dengan tiga napas tenang, sebagaimana adanya.",
+      "file": "c017.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 18,
+      "text": "Hidupi. Tiba.",
+      "file": "c018.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 19,
+      "text": "Tarik napas. Tenangkan diri.",
+      "file": "c019.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 20,
+      "text": "Jika pikiran beralih, perhatikan dengan lembut, lalu kembali ke napas ini.",
+      "file": "c020.ogg",
+      "durationSec": 11.352
+    },
+    {
+      "index": 21,
+      "text": "Sekarang mulailah berjalan perlahan menuju hutan tua.",
+      "file": "c021.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 22,
+      "text": "Jalannya lembut dengan jarum-jarum dan daun-daun yang jatuh.",
+      "file": "c022.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 23,
+      "text": "Setiap langkah membuat suara tenang, lalu kembali ke ketenangan.",
+      "file": "c023.ogg",
+      "durationSec": 9.336
+    },
+    {
+      "index": 24,
+      "text": "Cahaya matahari menyelip melalui cabang-cabang tinggi dalam pita-pita hangat.",
+      "file": "c024.ogg",
+      "durationSec": 9.864
+    },
+    {
+      "index": 25,
+      "text": "Rasakan cahaya matahari di lengan depanmu — panas lembut yang tiba-tiba.",
+      "file": "c025.ogg",
+      "durationSec": 10.632
+    },
+    {
+      "index": 26,
+      "text": "Kemudian kembali ke bayangan, dingin dan hijau.",
+      "file": "c026.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 27,
+      "text": "Angin bergerak di kanopi. Udara segar menjangkau wajahmu.",
+      "file": "c027.ogg",
+      "durationSec": 10.704
+    },
+    {
+      "index": 28,
+      "text": "Cium aroma resin, tanah yang lembab, dan kelezatan bersih lumut.",
+      "file": "c028.ogg",
+      "durationSec": 10.008
+    },
+    {
+      "index": 29,
+      "text": "Berhenti. Letakkan telapak tangan di batang kayu kasar.",
+      "file": "c029.ogg",
+      "durationSec": 9.864
+    },
+    {
+      "index": 30,
+      "text": "Rasakan ketenangan pohon itu masuk ke dalam telapak tanganmu.",
+      "file": "c030.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 31,
+      "text": "Lanjutkan lebih jauh. Suara dunia luar perlahan menghilang.",
+      "file": "c031.ogg",
+      "durationSec": 10.536
+    },
+    {
+      "index": 32,
+      "text": "Di suatu tempat, sungai berbicara dengan syllables kecil yang cerah.",
+      "file": "c032.ogg",
+      "durationSec": 9.456
+    },
+    {
+      "index": 33,
+      "text": "Kamu mengikuti hingga air muncul di antara batu-batu.",
+      "file": "c033.ogg",
+      "durationSec": 8.52
+    },
+    {
+      "index": 34,
+      "text": "Rendahkan diri. Masukkan tangan ke dalamnya. Klaritas yang dingin.",
+      "file": "c034.ogg",
+      "durationSec": 13.344
+    },
+    {
+      "index": 35,
+      "text": "Basahi sedikit di pergelangan tanganmu. Kenyamanan membangunkan kulit.",
+      "file": "c035.ogg",
+      "durationSec": 11.208
+    },
+    {
+      "index": 36,
+      "text": "Duduklah di batu datar yang dipanaskan oleh sinar matahari sempit.",
+      "file": "c036.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 37,
+      "text": "Rasakan kehangatan itu di tulang pinggul dan bagian belakang paha kamu.",
+      "file": "c037.ogg",
+      "durationSec": 9.528
+    },
+    {
+      "index": 38,
+      "text": "Rasakan napas dingin sungai yang menyentuh betismu.",
+      "file": "c038.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 39,
+      "text": "Burung berteriak sekali, lalu meninggalkan keheningan yang utuh kembali.",
+      "file": "c039.ogg",
+      "durationSec": 10.056
+    },
+    {
+      "index": 40,
+      "text": "Hidupi kesegaran hutan ini.",
+      "file": "c040.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 41,
+      "text": "Buang napas ke dalam batang-batang pohon yang sabar di sekitar Anda.",
+      "file": "c041.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 42,
+      "text": "Perhatikan bagaimana bahu Anda turun tanpa diminta.",
+      "file": "c042.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 43,
+      "text": "Bagaimana rahang melunak ketika tidak ada tempat lain untuk berada.",
+      "file": "c043.ogg",
+      "durationSec": 8.976
+    },
+    {
+      "index": 44,
+      "text": "Berdiri saat Anda siap dan berjalan sedikit lebih jauh.",
+      "file": "c044.ogg",
+      "durationSec": 7.992
+    },
+    {
+      "index": 45,
+      "text": "Paku-paku menyapu betis Anda dengan ujung hijau yang sejuk.",
+      "file": "c045.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 46,
+      "text": "Sebuah tempat terbuka — bulat seperti napas yang ditahan.",
+      "file": "c046.ogg",
+      "durationSec": 8.904
+    },
+    {
+      "index": 47,
+      "text": "Berbaringlah di atas lumut yang tebal.",
+      "file": "c047.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 48,
+      "text": "Bumi menerima berat badan Anda sepenuhnya.",
+      "file": "c048.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 49,
+      "text": "Kehangatan sinar matahari yang tersaring di wajah Anda.",
+      "file": "c049.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 50,
+      "text": "Kesejukan lumut di sepanjang tulang belakang Anda.",
+      "file": "c050.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 51,
+      "text": "Angin datang, daun-daun, datang lagi.",
+      "file": "c051.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 52,
+      "text": "Tetaplah dengan perasaan dipegang oleh tempat yang hidup.",
+      "file": "c052.ogg",
+      "durationSec": 7.392
+    },
+    {
+      "index": 53,
+      "text": "Aman. Tenang. Milik tanpa usaha.",
+      "file": "c053.ogg",
+      "durationSec": 9.696
+    },
+    {
+      "index": 54,
+      "text": "Hitung lima napas lambat di sini, masing-masing lebih lembut.",
+      "file": "c054.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 55,
+      "text": "Perhatikan kembali aroma — hijau, lembap, jujur.",
+      "file": "c055.ogg",
+      "durationSec": 9.84
+    },
+    {
+      "index": 56,
+      "text": "Perhatikan kembali suara — hampir tidak ada, dan itu sudah cukup.",
+      "file": "c056.ogg",
+      "durationSec": 10.608
+    },
+    {
+      "index": 57,
+      "text": "Jika sebuah pikiran muncul, biarkan mengalir seperti daun di sungai.",
+      "file": "c057.ogg",
+      "durationSec": 10.128
+    },
+    {
+      "index": 58,
+      "text": "Kembali ke kehangatan di kulit di mana pun sinar matahari menemukan Anda.",
+      "file": "c058.ogg",
+      "durationSec": 9.936
+    },
+    {
+      "index": 59,
+      "text": "Kembali ke kesejukan di tempat teduh di antara pita-pita hangat itu.",
+      "file": "c059.ogg",
+      "durationSec": 9.144
+    },
+    {
+      "index": 60,
+      "text": "Anda telah berjalan cukup jauh ke dalam.",
+      "file": "c060.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 61,
+      "text": "Biarkan tiga napas lambat mengunci ini dalam tubuh.",
+      "file": "c061.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 62,
+      "text": "Sebelum Anda pergi, berdiri sekali lagi di tepi sungai.",
+      "file": "c062.ogg",
+      "durationSec": 9.48
+    },
+    {
+      "index": 63,
+      "text": "Amati air yang jernih mengepang di sekitar batu.",
+      "file": "c063.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 64,
+      "text": "Udara dingin naik dari permukaan yang bergerak.",
+      "file": "c064.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 65,
+      "text": "Cahaya hangat masih menemukan sepotong lengan Anda.",
+      "file": "c065.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 66,
+      "text": "Ambil air dan basahi dahi jika kamu mau — dalam imajinasi, sejuk dan lembut.",
+      "file": "c066.ogg",
+      "durationSec": 12.624
+    },
+    {
+      "index": 67,
+      "text": "Hutan tidak bertepuk tangan. Ia hanya terus berjalan.",
+      "file": "c067.ogg",
+      "durationSec": 9.912
+    },
+    {
+      "index": 68,
+      "text": "Kelanjutan itu adalah seorang guru.",
+      "file": "c068.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 69,
+      "text": "Berjalanlah beberapa langkah tenang di dalam pikiran.",
+      "file": "c069.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 70,
+      "text": "Jarum di bawah kaki. Suara lembut. Kembali lembut.",
+      "file": "c070.ogg",
+      "durationSec": 11.568
+    },
+    {
+      "index": 71,
+      "text": "Namun kedamaian di tempat terbuka tetap berada di dada seperti sinar matahari yang tersimpan.",
+      "file": "c071.ogg",
+      "durationSec": 11.592
+    },
+    {
+      "index": 72,
+      "text": "Rasakan di sana — kehangatan di belakang tulang dada.",
+      "file": "c072.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 73,
+      "text": "Rasakan kesegaran yang masih ada di lubang hidung.",
+      "file": "c073.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 74,
+      "text": "Kamu bisa membawa keduanya ke ruangan biasa.",
+      "file": "c074.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 75,
+      "text": "Satu pandangan terakhir melalui cabang-cabang ke sekeping langit.",
+      "file": "c075.ogg",
+      "durationSec": 8.4
+    },
+    {
+      "index": 76,
+      "text": "Cukup.",
+      "file": "c076.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 77,
+      "text": "Sekarang biarkan cerita itu beristirahat, dan tetaplah dengan sensasi.",
+      "file": "c077.ogg",
+      "durationSec": 10.416
+    },
+    {
+      "index": 78,
+      "text": "Tarik napas kesegaran tempat ini.",
+      "file": "c078.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 79,
+      "text": "Buang napas ke dalam kehangatan dan ketenangannya.",
+      "file": "c079.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 80,
+      "text": "Tarik napas.",
+      "file": "c080.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 81,
+      "text": "Buang napas.",
+      "file": "c081.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 82,
+      "text": "Sekali lagi. Tarik napas lembut.",
+      "file": "c082.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 83,
+      "text": "Buang napas lebih panjang.",
+      "file": "c083.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 84,
+      "text": "Rasakan tubuh dipegang oleh tanah dunia yang dibayangkan ini.",
+      "file": "c084.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 85,
+      "text": "Tarik napas.",
+      "file": "c085.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 86,
+      "text": "Buang napas.",
+      "file": "c086.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 87,
+      "text": "Jika pikiran mengembara, kembalilah ke kehangatan di kulit.",
+      "file": "c087.ogg",
+      "durationSec": 8.64
+    },
+    {
+      "index": 88,
+      "text": "Atau ke udara sejuk di hidung.",
+      "file": "c088.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 89,
+      "text": "Tarik napas.",
+      "file": "c089.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 90,
+      "text": "Buang napas.",
+      "file": "c090.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 91,
+      "text": "Tarik napas.",
+      "file": "c091.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 92,
+      "text": "Buang napas.",
+      "file": "c092.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 93,
+      "text": "Tetap. Rileks. Lanjutkan.",
+      "file": "c093.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 94,
+      "text": "Tarik napas.",
+      "file": "c094.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 95,
+      "text": "Buang napas.",
+      "file": "c095.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 96,
+      "text": "Satu siklus lagi yang mudah.",
+      "file": "c096.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 97,
+      "text": "Tarik napas.",
+      "file": "c097.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 98,
+      "text": "Buang napas.",
+      "file": "c098.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 99,
+      "text": "Tinggallah dalam perasaan ini selama beberapa napas lagi.",
+      "file": "c099.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 100,
+      "text": "Kehangatan. Kelembutan. Cukup.",
+      "file": "c100.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 101,
+      "text": "Anda bisa kembali ke tempat ini kapan pun Anda membutuhkannya.",
+      "file": "c101.ogg",
+      "durationSec": 8.904
+    },
+    {
+      "index": 102,
+      "text": "Ini hidup dalam perhatian Anda, bukan hanya dalam imajinasi.",
+      "file": "c102.ogg",
+      "durationSec": 9.912
+    },
+    {
+      "index": 103,
+      "text": "Mulailah memperdalam napas.",
+      "file": "c103.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 104,
+      "text": "Rasakan ruangan di sekitar Anda lagi.",
+      "file": "c104.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 105,
+      "text": "Goyangkan jari-jari. Rilekskan jari kaki.",
+      "file": "c105.ogg",
+      "durationSec": 9.192
+    },
+    {
+      "index": 106,
+      "text": "Ketika Anda siap, buka mata Anda.",
+      "file": "c106.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 107,
+      "text": "Ambil satu napas lagi yang mudah.",
+      "file": "c107.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 108,
+      "text": "Bawa ketenangan ini ke dalam apa pun yang datang selanjutnya.",
+      "file": "c108.ogg",
+      "durationSec": 8.208
+    }
+  ]
+}
