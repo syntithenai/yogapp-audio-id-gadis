@@ -1,0 +1,172 @@
+{
+  "id": "open-awareness-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 171,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Cari posisi duduk yang nyaman, atau berbaring jika itu lebih baik untukmu.",
+      "file": "c001.ogg",
+      "durationSec": 11.04
+    },
+    {
+      "index": 2,
+      "text": "Biarkan tangan bersandar.",
+      "file": "c002.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 3,
+      "text": "Lepaskan ketegangan mata, atau tutup matamu.",
+      "file": "c003.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 4,
+      "text": "Ambil napas perlahan masuk.",
+      "file": "c004.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 5,
+      "text": "Dan hembuskan napas yang lebih panjang.",
+      "file": "c005.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 6,
+      "text": "Mulai dengan napas selama beberapa siklus.",
+      "file": "c006.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 7,
+      "text": "[jeda:28]",
+      "file": "c007.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 8,
+      "text": "Sekarang perluas. Termasuk suara-suara.",
+      "file": "c008.ogg",
+      "durationSec": 9.096
+    },
+    {
+      "index": 9,
+      "text": "Dekat. Jauh. Berubah. Stabil.",
+      "file": "c009.ogg",
+      "durationSec": 11.304
+    },
+    {
+      "index": 10,
+      "text": "[jeda:28]",
+      "file": "c010.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 11,
+      "text": "Termasuk sensasi di dalam tubuhmu.",
+      "file": "c011.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 12,
+      "text": "Titik kontak. Suhu. Getaran lembut.",
+      "file": "c012.ogg",
+      "durationSec": 9.744
+    },
+    {
+      "index": 13,
+      "text": "[jeda:28]",
+      "file": "c013.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 14,
+      "text": "Termasuk ruang di dalam kamar ini.",
+      "file": "c014.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 15,
+      "text": "Kesadaran seperti langit terbuka.",
+      "file": "c015.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 16,
+      "text": "[jeda:34]",
+      "file": "c016.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 17,
+      "text": "Pikiran mungkin muncul seperti cuaca.",
+      "file": "c017.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 18,
+      "text": "Tidak perlu mengejar atau mendorongnya.",
+      "file": "c018.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 19,
+      "text": "Langit tetap ada.",
+      "file": "c019.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 20,
+      "text": "[jeda:45]",
+      "file": "c020.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 21,
+      "text": "Beristirahatlah di ladang terbuka ini.",
+      "file": "c021.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 22,
+      "text": "[jeda:45]",
+      "file": "c022.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 23,
+      "text": "Ambil satu napas lagi dengan mudah.",
+      "file": "c023.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 24,
+      "text": "Gerakkan jari-jari tangan.",
+      "file": "c024.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 25,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c025.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 26,
+      "text": "Bawa sedikit dari ini bersama Anda.",
+      "file": "c026.ogg",
+      "durationSec": 6.216
+    }
+  ]
+}

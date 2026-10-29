@@ -1,0 +1,250 @@
+{
+  "id": "heart-space-10",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 229,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Luangkan waktu untuk tiba.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Duduk atau berbaring dengan dukungan.",
+      "file": "c002.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 3,
+      "text": "Tutup mata jika itu terasa aman.",
+      "file": "c003.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 4,
+      "text": "Rasakan kontak dengan tanah.",
+      "file": "c004.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 5,
+      "text": "Bernapaslah pelan masuk.",
+      "file": "c005.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 6,
+      "text": "Bernapas keluar lebih lama.",
+      "file": "c006.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 7,
+      "text": "[jeda:25]",
+      "file": "c007.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 8,
+      "text": "Ulangi.",
+      "file": "c008.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 9,
+      "text": "[jeda:25]",
+      "file": "c009.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 10,
+      "text": "Biarkan bahu turun.",
+      "file": "c010.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 11,
+      "text": "Biarkan perut lembut.",
+      "file": "c011.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 12,
+      "text": "[jeda:31]",
+      "file": "c012.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 13,
+      "text": "Arahkan perhatian ke tengah dada.",
+      "file": "c013.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 14,
+      "text": "Tidak memaksakan perasaan. Hanya menemukan ruang itu.",
+      "file": "c014.ogg",
+      "durationSec": 10.176
+    },
+    {
+      "index": 15,
+      "text": "[jeda:31]",
+      "file": "c015.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 16,
+      "text": "Bernapas seolah napas masuk melalui hati.",
+      "file": "c016.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 17,
+      "text": "Seolah napas keluar melembutkan hati dari dalam.",
+      "file": "c017.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 18,
+      "text": "[jeda:37]",
+      "file": "c018.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 19,
+      "text": "Jika emosi muncul, biarkan ia bergerak seperti cuaca.",
+      "file": "c019.ogg",
+      "durationSec": 9.336
+    },
+    {
+      "index": 20,
+      "text": "[jeda:37]",
+      "file": "c020.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 21,
+      "text": "Secara diam-diam: semoga hatiku tenang.",
+      "file": "c021.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 22,
+      "text": "[jeda:31]",
+      "file": "c022.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 23,
+      "text": "Semoga aku sabar dengan ritmaku sendiri.",
+      "file": "c023.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 24,
+      "text": "[jeda:31]",
+      "file": "c024.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 25,
+      "text": "Bayangkan seseorang yang mudah untuk kamu pedulikan.",
+      "file": "c025.ogg",
+      "durationSec": 7.392
+    },
+    {
+      "index": 26,
+      "text": "Harapkan mereka tenang.",
+      "file": "c026.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 27,
+      "text": "Semoga kau tenang.",
+      "file": "c027.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 28,
+      "text": "[jeda:37]",
+      "file": "c028.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 29,
+      "text": "Kembali ke ruang hati Anda sendiri.",
+      "file": "c029.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 30,
+      "text": "Hangat. Luas. Manusia.",
+      "file": "c030.ogg",
+      "durationSec": 8.904
+    },
+    {
+      "index": 31,
+      "text": "[jeda:75]",
+      "file": "c031.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 32,
+      "text": "Beristirahat di sini.",
+      "file": "c032.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 33,
+      "text": "[jeda:90]",
+      "file": "c033.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 34,
+      "text": "[jeda:37]",
+      "file": "c034.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 35,
+      "text": "Mulai dalamkan napas.",
+      "file": "c035.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 36,
+      "text": "Rasakan ruangan lagi.",
+      "file": "c036.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 37,
+      "text": "Goyangkan jari tangan dan kaki.",
+      "file": "c037.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 38,
+      "text": "Ketika siap, buka mata.",
+      "file": "c038.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 39,
+      "text": "Gerakkan perlahan ke hal berikutnya.",
+      "file": "c039.ogg",
+      "durationSec": 5.784
+    }
+  ]
+}

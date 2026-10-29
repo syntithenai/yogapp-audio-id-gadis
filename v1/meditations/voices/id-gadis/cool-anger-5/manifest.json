@@ -1,0 +1,160 @@
+{
+  "id": "cool-anger-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 146,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Jika kemarahan atau iritasi hadir, Anda diterima di sini.",
+      "file": "c001.ogg",
+      "durationSec": 9.36
+    },
+    {
+      "index": 2,
+      "text": "Anda tidak perlu membuatnya menghilang.",
+      "file": "c002.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 3,
+      "text": "Berikan saja lebih banyak ruang.",
+      "file": "c003.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 4,
+      "text": "Rasakan kaki.",
+      "file": "c004.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 5,
+      "text": "[jeda:25]",
+      "file": "c005.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 6,
+      "text": "Tarik napas selama empat.",
+      "file": "c006.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 7,
+      "text": "Buang napas selama enam atau delapan.",
+      "file": "c007.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 8,
+      "text": "Napas keluar yang lebih panjang mendinginkan sistem.",
+      "file": "c008.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 9,
+      "text": "[jeda:33]",
+      "file": "c009.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 10,
+      "text": "Sekali lagi.",
+      "file": "c010.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 11,
+      "text": "[jeda:33]",
+      "file": "c011.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 12,
+      "text": "Sebutkan panas tanpa memperkuat cerita.",
+      "file": "c012.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 13,
+      "text": "Panaskan di dada. Rahang kencang. Pikiran cepat.",
+      "file": "c013.ogg",
+      "durationSec": 11.664
+    },
+    {
+      "index": 14,
+      "text": "[jeda:41]",
+      "file": "c014.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 15,
+      "text": "Lemaskan tangan.",
+      "file": "c015.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 16,
+      "text": "Turunkan bahu.",
+      "file": "c016.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 17,
+      "text": "[jeda:33]",
+      "file": "c017.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 18,
+      "text": "Anda bisa merespons nanti dari tempat yang lebih jernih.",
+      "file": "c018.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 19,
+      "text": "Untuk saat ini, bernapaslah.",
+      "file": "c019.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 20,
+      "text": "[jeda:45]",
+      "file": "c020.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 21,
+      "text": "Ambil satu napas lagi dengan mudah.",
+      "file": "c021.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 22,
+      "text": "Goyangkan jari-jari.",
+      "file": "c022.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 23,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c023.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 24,
+      "text": "Bawa sedikit dari ini bersama Anda.",
+      "file": "c024.ogg",
+      "durationSec": 6.216
+    }
+  ]
+}

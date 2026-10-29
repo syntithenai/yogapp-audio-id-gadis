@@ -1,0 +1,166 @@
+{
+  "id": "desk-unclench-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 148,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Tetap duduk. Ini untuk tengah hari kerja.",
+      "file": "c001.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 2,
+      "text": "Lepaskan pandangan dari layar sejenak.",
+      "file": "c002.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 3,
+      "text": "Lihat lebih jauh, jika bisa.",
+      "file": "c003.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 4,
+      "text": "[jeda:28]",
+      "file": "c004.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 5,
+      "text": "Putar bahu ke atas, ke belakang, dan ke bawah.",
+      "file": "c005.ogg",
+      "durationSec": 8.568
+    },
+    {
+      "index": 6,
+      "text": "Dua kali lagi.",
+      "file": "c006.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 7,
+      "text": "[jeda:38]",
+      "file": "c007.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 8,
+      "text": "Buka dan tutup tangan.",
+      "file": "c008.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 9,
+      "text": "Goyangkan sedikit.",
+      "file": "c009.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 10,
+      "text": "[jeda:28]",
+      "file": "c010.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 11,
+      "text": "Lemaskan alis.",
+      "file": "c011.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 12,
+      "text": "Lepaskan rahang. Biarkan lidah rileks.",
+      "file": "c012.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 13,
+      "text": "[jeda:38]",
+      "file": "c013.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 14,
+      "text": "Tarik napas ke sisi tulang rusuk.",
+      "file": "c014.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 15,
+      "text": "Buang napas dan biarkan dada tenang.",
+      "file": "c015.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 16,
+      "text": "[jeda:38]",
+      "file": "c016.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 17,
+      "text": "Pergelapkan mata tiga kali.",
+      "file": "c017.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 18,
+      "text": "[jeda:28]",
+      "file": "c018.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 19,
+      "text": "Satu napas penuh lagi.",
+      "file": "c019.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 20,
+      "text": "Kembali saat siap, sedikit lebih rileks.",
+      "file": "c020.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 21,
+      "text": "[jeda:28]",
+      "file": "c021.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 22,
+      "text": "Ambil satu napas lagi yang mudah.",
+      "file": "c022.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 23,
+      "text": "Gerakkan jari-jari.",
+      "file": "c023.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 24,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c024.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 25,
+      "text": "Bawa ketenangan kembali ke tugas berikutnya.",
+      "file": "c025.ogg",
+      "durationSec": 6.936
+    }
+  ]
+}

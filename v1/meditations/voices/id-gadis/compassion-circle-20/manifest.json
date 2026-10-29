@@ -1,0 +1,394 @@
+{
+  "id": "compassion-circle-20",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 369,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Luangkan waktu untuk tiba.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Duduk atau berbaring dengan dukungan.",
+      "file": "c002.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 3,
+      "text": "Tutup mata jika itu terasa aman.",
+      "file": "c003.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 4,
+      "text": "Rasakan kontak dengan tanah.",
+      "file": "c004.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 5,
+      "text": "Nafas masuk perlahan.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "Nafas keluar lebih panjang.",
+      "file": "c006.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 7,
+      "text": "[jeda:27]",
+      "file": "c007.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 8,
+      "text": "Lagi.",
+      "file": "c008.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 9,
+      "text": "[jeda:27]",
+      "file": "c009.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 10,
+      "text": "Biarkan bahu turun.",
+      "file": "c010.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 11,
+      "text": "Biarkan perut menjadi lebih lembut.",
+      "file": "c011.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 12,
+      "text": "[jeda:34]",
+      "file": "c012.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 13,
+      "text": "Kami akan menawarkan kebaikan dalam lingkaran yang semakin luas.",
+      "file": "c013.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 14,
+      "text": "Kalimat-kalimat ini adalah undangan, bukan perintah.",
+      "file": "c014.ogg",
+      "durationSec": 8.808
+    },
+    {
+      "index": 15,
+      "text": "[jeda:34]",
+      "file": "c015.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 16,
+      "text": "Menuju diri sendiri.",
+      "file": "c016.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 17,
+      "text": "Semoga saya aman.",
+      "file": "c017.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 18,
+      "text": "[jeda:27]",
+      "file": "c018.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 19,
+      "text": "Semoga saya sehat.",
+      "file": "c019.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 20,
+      "text": "[jeda:27]",
+      "file": "c020.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 21,
+      "text": "Semoga saya hidup dengan ketenangan.",
+      "file": "c021.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 22,
+      "text": "[jeda:41]",
+      "file": "c022.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 23,
+      "text": "Kembali, perlahan-lahan.",
+      "file": "c023.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 24,
+      "text": "Semoga saya aman.",
+      "file": "c024.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 25,
+      "text": "Semoga saya sehat.",
+      "file": "c025.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 26,
+      "text": "Semoga saya hidup dengan ketenangan.",
+      "file": "c026.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 27,
+      "text": "[jeda:69]",
+      "file": "c027.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 28,
+      "text": "Bayangkan seseorang yang dekat atau mudah untuk Anda pedulikan.",
+      "file": "c028.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 29,
+      "text": "Semoga kamu aman.",
+      "file": "c029.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 30,
+      "text": "[jeda:27]",
+      "file": "c030.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 31,
+      "text": "Semoga kamu sehat.",
+      "file": "c031.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 32,
+      "text": "[jeda:27]",
+      "file": "c032.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 33,
+      "text": "Semoga kamu hidup dengan ketenangan.",
+      "file": "c033.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 34,
+      "text": "[jeda:69]",
+      "file": "c034.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 35,
+      "text": "Bayangkan seseorang yang netral. Seseorang yang hampir tidak Anda kenal.",
+      "file": "c035.ogg",
+      "durationSec": 11.496
+    },
+    {
+      "index": 36,
+      "text": "Semoga kamu aman.",
+      "file": "c036.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 37,
+      "text": "Semoga kamu sehat.",
+      "file": "c037.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 38,
+      "text": "Semoga kamu hidup dengan mudah.",
+      "file": "c038.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 39,
+      "text": "[jeda:69]",
+      "file": "c039.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 40,
+      "text": "Jika terasa mungkin, sertakan seseorang yang sulit, dengan ringan.",
+      "file": "c040.ogg",
+      "durationSec": 10.128
+    },
+    {
+      "index": 41,
+      "text": "Atau kembali ke diri sendiri jika itu lebih bijaksana hari ini.",
+      "file": "c041.ogg",
+      "durationSec": 9.192
+    },
+    {
+      "index": 42,
+      "text": "Semoga kamu terbebas dari penderitaan.",
+      "file": "c042.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 43,
+      "text": "[jeda:55]",
+      "file": "c043.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 44,
+      "text": "Perluas ke semua makhluk, dekat dan jauh.",
+      "file": "c044.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 45,
+      "text": "Semoga semua makhluk aman.",
+      "file": "c045.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 46,
+      "text": "[jeda:34]",
+      "file": "c046.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 47,
+      "text": "Semoga semua makhluk sehat.",
+      "file": "c047.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 48,
+      "text": "[jeda:34]",
+      "file": "c048.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 49,
+      "text": "Semoga semua makhluk hidup dengan mudah.",
+      "file": "c049.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 50,
+      "text": "[jeda:82]",
+      "file": "c050.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 51,
+      "text": "Kembali ke tubuh dan napasmu sendiri.",
+      "file": "c051.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 52,
+      "text": "Beristirahat dalam sisa kehangatan frasa.",
+      "file": "c052.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 53,
+      "text": "[jeda:150]",
+      "file": "c053.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 54,
+      "text": "Tidak perlu dipaksakan. Kelembutan sudah cukup.",
+      "file": "c054.ogg",
+      "durationSec": 9.048
+    },
+    {
+      "index": 55,
+      "text": "[jeda:137]",
+      "file": "c055.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 56,
+      "text": "[jeda:41]",
+      "file": "c056.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 57,
+      "text": "Mulai dalamkan napas.",
+      "file": "c057.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 58,
+      "text": "Beristirahat di sini.",
+      "file": "c058.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 59,
+      "text": "[jeda:26]",
+      "file": "c059.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 60,
+      "text": "Rasakan ruangan lagi.",
+      "file": "c060.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 61,
+      "text": "Goyangkan jari tangan dan kaki.",
+      "file": "c061.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 62,
+      "text": "Saat siap, buka mata.",
+      "file": "c062.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 63,
+      "text": "Gerakkan perlahan ke hal berikutnya.",
+      "file": "c063.ogg",
+      "durationSec": 5.784
+    }
+  ]
+}

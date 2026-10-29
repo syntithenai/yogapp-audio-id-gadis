@@ -1,0 +1,184 @@
+{
+  "id": "gratitude-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 196,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Temukan posisi duduk yang nyaman, atau berbaring jika terasa lebih baik.",
+      "file": "c001.ogg",
+      "durationSec": 10.44
+    },
+    {
+      "index": 2,
+      "text": "Biarkan tangan beristirahat.",
+      "file": "c002.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 3,
+      "text": "Lepaskan ketegangan pada mata, atau tutup mata.",
+      "file": "c003.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 4,
+      "text": "Ambil napas perlahan masuk.",
+      "file": "c004.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 5,
+      "text": "Dan napas keluar yang lebih panjang.",
+      "file": "c005.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 6,
+      "text": "Ingatkan satu hal kecil yang membantu Anda hari ini, atau minggu ini.",
+      "file": "c006.ogg",
+      "durationSec": 9.864
+    },
+    {
+      "index": 7,
+      "text": "Bisa jadi hal yang biasa. Air hangat. Sebuah pesan. Cahaya di dinding.",
+      "file": "c007.ogg",
+      "durationSec": 15.984
+    },
+    {
+      "index": 8,
+      "text": "[jeda:21]",
+      "file": "c008.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 9,
+      "text": "Peganglah dengan lembut dalam kesadaran.",
+      "file": "c009.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 10,
+      "text": "Perhatikan adanya pelunakan di dada atau wajah.",
+      "file": "c010.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 11,
+      "text": "[jeda:26]",
+      "file": "c011.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 12,
+      "text": "Terima kasih secara diam-diam atas satu hal ini.",
+      "file": "c012.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 13,
+      "text": "Terima kasih karena kamu berada di sini.",
+      "file": "c013.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 14,
+      "text": "[jeda:21]",
+      "file": "c014.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 15,
+      "text": "Sekarang hal kedua. Hal kecil yang baik lainnya.",
+      "file": "c015.ogg",
+      "durationSec": 9.264
+    },
+    {
+      "index": 16,
+      "text": "[jeda:26]",
+      "file": "c016.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 17,
+      "text": "Terima kasih.",
+      "file": "c017.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 18,
+      "text": "[jeda:15]",
+      "file": "c018.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 19,
+      "text": "Dan satu lagi. Yang ketiga.",
+      "file": "c019.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 20,
+      "text": "[jeda:26]",
+      "file": "c020.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 21,
+      "text": "Biarkan rasa syukur sederhana. Tidak dipaksakan. Hanya diperhatikan.",
+      "file": "c021.ogg",
+      "durationSec": 14.208
+    },
+    {
+      "index": 22,
+      "text": "[jeda:31]",
+      "file": "c022.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 23,
+      "text": "Tetaplah beristirahat dalam kehangatan ini selama beberapa napas.",
+      "file": "c023.ogg",
+      "durationSec": 9.336
+    },
+    {
+      "index": 24,
+      "text": "[jeda:41]",
+      "file": "c024.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 25,
+      "text": "Ambil satu napas lagi yang lembut.",
+      "file": "c025.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 26,
+      "text": "Gerakkan jari-jari.",
+      "file": "c026.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 27,
+      "text": "Ketika siap, buka mata.",
+      "file": "c027.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 28,
+      "text": "Bawa sedikit hal ini bersamamu.",
+      "file": "c028.ogg",
+      "durationSec": 5.904
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "rain-window-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 160,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Temukan posisi duduk yang nyaman, atau berbaring jika terasa lebih baik.",
+      "file": "c001.ogg",
+      "durationSec": 10.44
+    },
+    {
+      "index": 2,
+      "text": "Biarkan tangan beristirahat.",
+      "file": "c002.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 3,
+      "text": "Lemaskan mata, atau tutuplah.",
+      "file": "c003.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 4,
+      "text": "Ambil napas perlahan masuk.",
+      "file": "c004.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 5,
+      "text": "Dan napas keluar yang lebih panjang.",
+      "file": "c005.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 6,
+      "text": "Bayangkan duduk di dekat jendela pada hari hujan yang tenang.",
+      "file": "c006.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 7,
+      "text": "Kaca dingin. Dunia di luar lembut.",
+      "file": "c007.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 8,
+      "text": "[jeda:30]",
+      "file": "c008.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 9,
+      "text": "Dengarkan hujan tanpa perlu cerita.",
+      "file": "c009.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 10,
+      "text": "Tepukan kecil. Kadang-kadang jatuh lebih berat.",
+      "file": "c010.ogg",
+      "durationSec": 9.0
+    },
+    {
+      "index": 11,
+      "text": "[jeda:36]",
+      "file": "c011.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 12,
+      "text": "Cium udara lembap yang bersih.",
+      "file": "c012.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 13,
+      "text": "Lihat cahaya abu-abu, lembut dan tenang.",
+      "file": "c013.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 14,
+      "text": "[jeda:30]",
+      "file": "c014.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 15,
+      "text": "Tidak ada tempat untuk pergi di tengah hujan.",
+      "file": "c015.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 16,
+      "text": "Izin untuk berhenti sejenak.",
+      "file": "c016.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 17,
+      "text": "[jeda:36]",
+      "file": "c017.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 18,
+      "text": "Tarik napas mengikuti irama air di kaca.",
+      "file": "c018.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 19,
+      "text": "[jeda:45]",
+      "file": "c019.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 20,
+      "text": "Biarkan sistem saraf mengikuti isyarat: rileks.",
+      "file": "c020.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 21,
+      "text": "[jeda:36]",
+      "file": "c021.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 22,
+      "text": "Tarik napas lagi dengan mudah.",
+      "file": "c022.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 23,
+      "text": "Goyangkan jari-jari.",
+      "file": "c023.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 24,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c024.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 25,
+      "text": "Bawa sedikit dari ini bersama Anda.",
+      "file": "c025.ogg",
+      "durationSec": 6.216
+    }
+  ]
+}

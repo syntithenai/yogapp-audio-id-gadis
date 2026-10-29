@@ -1,0 +1,412 @@
+{
+  "id": "morning-energy-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 405,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat pagi.",
+      "file": "c000.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 1,
+      "text": "Selamat datang dalam latihan singkat untuk menyambut hari ini.",
+      "file": "c001.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 2,
+      "text": "Duduk tegak, atau berdiri jika terasa lebih baik.",
+      "file": "c002.ogg",
+      "durationSec": 8.016
+    },
+    {
+      "index": 3,
+      "text": "Biarkan matamu melunak, atau tutuplah.",
+      "file": "c003.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 4,
+      "text": "Rasakan kaki kamu di lantai.",
+      "file": "c004.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 5,
+      "text": "Ambil napas perlahan melalui hidung.",
+      "file": "c005.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 6,
+      "text": "Dan napas keluar yang lebih penuh melalui mulut.",
+      "file": "c006.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 7,
+      "text": "Lagi. Tarik napas lembut.",
+      "file": "c007.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 8,
+      "text": "Buang napas sepenuhnya.",
+      "file": "c008.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 9,
+      "text": "Satu lagi. Isi dada.",
+      "file": "c009.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 10,
+      "text": "Kosongkan sepenuhnya.",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "[jeda:4]",
+      "file": "c011.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 12,
+      "text": "Lihat ke depan ke hari tanpa memegangnya.",
+      "file": "c012.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 13,
+      "text": "Kamu tidak perlu peta lengkap sekarang.",
+      "file": "c013.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 14,
+      "text": "Langkah jujur berikutnya.",
+      "file": "c014.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 15,
+      "text": "[jeda:5]",
+      "file": "c015.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 16,
+      "text": "Tarik napas selama empat.",
+      "file": "c016.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 17,
+      "text": "Dua. Tiga. Empat.",
+      "file": "c017.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 18,
+      "text": "Buang napas selama empat.",
+      "file": "c018.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 19,
+      "text": "Dua. Tiga. Empat.",
+      "file": "c019.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 20,
+      "text": "Lagi, dengan kecepatan Anda sendiri.",
+      "file": "c020.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 21,
+      "text": "[jeda:6]",
+      "file": "c021.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 22,
+      "text": "Rasakan kehangatan di tangan.",
+      "file": "c022.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 23,
+      "text": "Rasakan kesiapan di kaki.",
+      "file": "c023.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 24,
+      "text": "[jeda:4]",
+      "file": "c024.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 25,
+      "text": "Putar bahu ke atas, ke belakang, dan ke bawah.",
+      "file": "c025.ogg",
+      "durationSec": 8.568
+    },
+    {
+      "index": 26,
+      "text": "Lepaskan rahang.",
+      "file": "c026.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 27,
+      "text": "Lemaskan perut.",
+      "file": "c027.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 28,
+      "text": "Perhatikan sisa kantuk dalam tubuh.",
+      "file": "c028.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 29,
+      "text": "Tidak perlu mendorongnya pergi.",
+      "file": "c029.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 30,
+      "text": "Tarik napas ke sisi tulang rusuk.",
+      "file": "c030.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 31,
+      "text": "Dan biarkan mereka menyempit saat buang napas.",
+      "file": "c031.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 32,
+      "text": "[jeda:5]",
+      "file": "c032.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 33,
+      "text": "Sekarang bawa sedikit cahaya ke dalam napas.",
+      "file": "c033.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 34,
+      "text": "Tarik napas seolah-olah Anda bangun dari dalam.",
+      "file": "c034.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 35,
+      "text": "Buang napas dari apa yang berat dari kemarin.",
+      "file": "c035.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 36,
+      "text": "Tarik napas kemungkinan.",
+      "file": "c036.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 37,
+      "text": "Buang napas dari usaha yang belum diperlukan.",
+      "file": "c037.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 38,
+      "text": "[jeda:4]",
+      "file": "c038.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 39,
+      "text": "Letakkan satu tangan di dada, atau letakkan kedua tangan di pangkuan.",
+      "file": "c039.ogg",
+      "durationSec": 9.984
+    },
+    {
+      "index": 40,
+      "text": "Secara diam-diam, atau hanya mendengarkan, coba frasa-frasa ini.",
+      "file": "c040.ogg",
+      "durationSec": 10.68
+    },
+    {
+      "index": 41,
+      "text": "Aku ada di sini.",
+      "file": "c041.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 42,
+      "text": "Aku memulai lagi.",
+      "file": "c042.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 43,
+      "text": "Aku punya cukup untuk pagi ini.",
+      "file": "c043.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 44,
+      "text": "[jeda:4]",
+      "file": "c044.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 45,
+      "text": "Aku bergerak dengan ketenangan.",
+      "file": "c045.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 46,
+      "text": "Aku menyambut apa pun yang datang dengan pikiran yang jernih.",
+      "file": "c046.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 47,
+      "text": "Aku diizinkan untuk hadir hari ini.",
+      "file": "c047.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 48,
+      "text": "[jeda:5]",
+      "file": "c048.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 49,
+      "text": "Aku memilih satu niat jelas untuk hari ini.",
+      "file": "c049.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 50,
+      "text": "Bisa sederhana.",
+      "file": "c050.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 51,
+      "text": "Kebijaksanaan. Fokus. Kesabaran. Energi.",
+      "file": "c051.ogg",
+      "durationSec": 13.68
+    },
+    {
+      "index": 52,
+      "text": "Pegang kata itu selama satu napas.",
+      "file": "c052.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 53,
+      "text": "[jeda:6]",
+      "file": "c053.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 54,
+      "text": "Bayangkan dirimu bergerak sepanjang pagi dengan kualitas itu.",
+      "file": "c054.ogg",
+      "durationSec": 8.736
+    },
+    {
+      "index": 55,
+      "text": "[jeda:5]",
+      "file": "c055.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 56,
+      "text": "[jeda:5]",
+      "file": "c056.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 57,
+      "text": "Regangkan jari-jari tangan lebar, lalu rileks.",
+      "file": "c057.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 58,
+      "text": "Angkat sudut mulut sedikit, jika terasa benar.",
+      "file": "c058.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 59,
+      "text": "[jeda:3]",
+      "file": "c059.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 60,
+      "text": "Rasakan tulang belakang memanjang pada napas masuk berikutnya.",
+      "file": "c060.ogg",
+      "durationSec": 8.568
+    },
+    {
+      "index": 61,
+      "text": "Rasakan bahu menurun pada napas keluar.",
+      "file": "c061.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 62,
+      "text": "Satu napas cerah lagi.",
+      "file": "c062.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 63,
+      "text": "Dan napas panjang, mudah keluar.",
+      "file": "c063.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 64,
+      "text": "Goyangkan jari-jari tangan.",
+      "file": "c064.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 65,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c065.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 66,
+      "text": "Bawa energi tenang ini ke dalam hari Anda.",
+      "file": "c066.ogg",
+      "durationSec": 6.864
+    }
+  ]
+}

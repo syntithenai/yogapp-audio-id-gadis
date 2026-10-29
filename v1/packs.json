@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "id-gadis.zip", "bytes": 72326032, "sha256": "2bd564b100afc0ff64642689356169efa4899c279bd8a93de22960a60614f6f9"}
+  ]
+}

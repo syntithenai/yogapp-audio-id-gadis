@@ -1,0 +1,178 @@
+{
+  "id": "self-compassion-5",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 192,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Cari posisi duduk yang nyaman, atau berbaring jika itu terasa lebih baik.",
+      "file": "c001.ogg",
+      "durationSec": 10.464
+    },
+    {
+      "index": 2,
+      "text": "Biarkan tangan bersantai.",
+      "file": "c002.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 3,
+      "text": "Lepaskan ketegangan mata, atau tutup matamu.",
+      "file": "c003.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 4,
+      "text": "Ambil napas perlahan masuk.",
+      "file": "c004.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 5,
+      "text": "Dan hembuskan napas yang lebih panjang.",
+      "file": "c005.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 6,
+      "text": "Letakkan satu tangan di dada, atau letakkan kedua tangan di pangkuan.",
+      "file": "c006.ogg",
+      "durationSec": 9.984
+    },
+    {
+      "index": 7,
+      "text": "Perhatikan keadaan Anda, tanpa mencoba memperbaikinya.",
+      "file": "c007.ogg",
+      "durationSec": 9.24
+    },
+    {
+      "index": 8,
+      "text": "[jeda:31]",
+      "file": "c008.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 9,
+      "text": "Jika ada perjuangan, akui itu.",
+      "file": "c009.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 10,
+      "text": "Ini adalah momen kesulitan.",
+      "file": "c010.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 11,
+      "text": "Kesulitan adalah bagian dari menjadi manusia.",
+      "file": "c011.ogg",
+      "durationSec": 7.656
+    },
+    {
+      "index": 12,
+      "text": "[jeda:39]",
+      "file": "c012.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 13,
+      "text": "Berikan kebaikan pada diri sendiri sebagaimana Anda memberikannya kepada teman.",
+      "file": "c013.ogg",
+      "durationSec": 10.536
+    },
+    {
+      "index": 14,
+      "text": "Semoga saya bisa bersikap baik kepada diri sendiri.",
+      "file": "c014.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 15,
+      "text": "Semoga saya memberikan belas kasih yang saya butuhkan.",
+      "file": "c015.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 16,
+      "text": "[jeda:39]",
+      "file": "c016.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 17,
+      "text": "Sekali lagi, perlahan-lahan.",
+      "file": "c017.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 18,
+      "text": "Semoga saya bisa bersikap baik kepada diri sendiri.",
+      "file": "c018.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 19,
+      "text": "Semoga saya memberikan belas kasih yang saya butuhkan.",
+      "file": "c019.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 20,
+      "text": "[jeda:45]",
+      "file": "c020.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 21,
+      "text": "Tarik napas ke tangan yang berada di dada, jika ada.",
+      "file": "c021.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 22,
+      "text": "[jeda:39]",
+      "file": "c022.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 23,
+      "text": "Anda tidak perlu mendapatkan kelembutan ini.",
+      "file": "c023.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 24,
+      "text": "Ambil satu napas lagi dengan mudah.",
+      "file": "c024.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 25,
+      "text": "Gerakkan jari-jari.",
+      "file": "c025.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 26,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c026.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 27,
+      "text": "Bawa sedikit dari ini bersama Anda.",
+      "file": "c027.ogg",
+      "durationSec": 6.216
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "id": "body-scan-10",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 262,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 1,
+      "text": "Luangkan waktu untuk tiba.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Duduk atau berbaring dengan dukungan.",
+      "file": "c002.ogg",
+      "durationSec": 1.56
+    },
+    {
+      "index": 3,
+      "text": "Tutup mata jika terasa aman.",
+      "file": "c003.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 4,
+      "text": "Rasakan kontak dengan tanah.",
+      "file": "c004.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 5,
+      "text": "Napas dalam perlahan.",
+      "file": "c005.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 6,
+      "text": "Nafas keluar lebih panjang.",
+      "file": "c006.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 7,
+      "text": "[jeda:21]",
+      "file": "c007.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 8,
+      "text": "Lagi.",
+      "file": "c008.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 9,
+      "text": "[jeda:21]",
+      "file": "c009.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 10,
+      "text": "Biarkan bahu turun.",
+      "file": "c010.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 11,
+      "text": "Biarkan perut melunak.",
+      "file": "c011.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 12,
+      "text": "[jeda:27]",
+      "file": "c012.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 13,
+      "text": "Mulai dari puncak kepala.",
+      "file": "c013.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 14,
+      "text": "Perhatikan sensasi, atau kurangnya sensasi.",
+      "file": "c014.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 15,
+      "text": "[jeda:27]",
+      "file": "c015.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 16,
+      "text": "Dahi. Mata. Pipi. Rahang.",
+      "file": "c016.ogg",
+      "durationSec": 11.328
+    },
+    {
+      "index": 17,
+      "text": "Biarkan wajah sedikit meleleh.",
+      "file": "c017.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 18,
+      "text": "[jeda:27]",
+      "file": "c018.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 19,
+      "text": "Tenggorokan. Leher. Bahu.",
+      "file": "c019.ogg",
+      "durationSec": 9.696
+    },
+    {
+      "index": 20,
+      "text": "Undang bahu untuk turun.",
+      "file": "c020.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 21,
+      "text": "[jeda:32]",
+      "file": "c021.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 22,
+      "text": "Lengan. Siku. Pergelangan tangan. Tangan. Jari.",
+      "file": "c022.ogg",
+      "durationSec": 15.216
+    },
+    {
+      "index": 23,
+      "text": "[jeda:32]",
+      "file": "c023.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 24,
+      "text": "Dada naik turun.",
+      "file": "c024.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 25,
+      "text": "Ruang jantung melunak.",
+      "file": "c025.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 26,
+      "text": "[jeda:27]",
+      "file": "c026.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 27,
+      "text": "Perut. Punggung bawah. Pinggul.",
+      "file": "c027.ogg",
+      "durationSec": 8.904
+    },
+    {
+      "index": 28,
+      "text": "[jeda:32]",
+      "file": "c028.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 29,
+      "text": "Paha. Lutut. Betis. Pergelangan kaki. Kaki. Jari kaki.",
+      "file": "c029.ogg",
+      "durationSec": 18.312
+    },
+    {
+      "index": 30,
+      "text": "[jeda:38]",
+      "file": "c030.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 31,
+      "text": "Rasakan seluruh tubuh sebagai satu bidang.",
+      "file": "c031.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 32,
+      "text": "Nafas bergerak melaluinya.",
+      "file": "c032.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 33,
+      "text": "[jeda:54]",
+      "file": "c033.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 34,
+      "text": "Jika ada bagian yang masih tegang, hembuskan nafas ke sana.",
+      "file": "c034.ogg",
+      "durationSec": 8.976
+    },
+    {
+      "index": 35,
+      "text": "[jeda:43]",
+      "file": "c035.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 36,
+      "text": "Beristirahat dalam kesadaran seluruh tubuh.",
+      "file": "c036.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 37,
+      "text": "[jeda:81]",
+      "file": "c037.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 38,
+      "text": "[jeda:32]",
+      "file": "c038.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 39,
+      "text": "Mulai dalamkan pernapasan.",
+      "file": "c039.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 40,
+      "text": "Rasakan ruangan lagi.",
+      "file": "c040.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 41,
+      "text": "Goyangkan jari tangan dan kaki.",
+      "file": "c041.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 42,
+      "text": "Ketika siap, buka mata.",
+      "file": "c042.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 43,
+      "text": "Bergerak perlahan ke hal berikutnya.",
+      "file": "c043.ogg",
+      "durationSec": 5.544
+    }
+  ]
+}

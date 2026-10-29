@@ -1,0 +1,352 @@
+{
+  "id": "quit-smoking-free-10",
+  "voiceId": "id-gadis",
+  "edgeVoice": "id-ID-GadisNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 384,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Selamat datang.",
+      "file": "c000.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 1,
+      "text": "Latihan ini untuk Anda sebagai non-perokok.",
+      "file": "c001.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 2,
+      "text": "Temukan posisi duduk yang nyaman, atau berbaring jika terasa lebih baik.",
+      "file": "c002.ogg",
+      "durationSec": 10.44
+    },
+    {
+      "index": 3,
+      "text": "Biarkan tangan beristirahat.",
+      "file": "c003.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 4,
+      "text": "Lemaskan mata, atau tutuplah.",
+      "file": "c004.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 5,
+      "text": "Tarik napas perlahan.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "Dan hembuskan napas lebih panjang.",
+      "file": "c006.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 7,
+      "text": "[jeda:16]",
+      "file": "c007.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 8,
+      "text": "Rasakan tubuh didukung.",
+      "file": "c008.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 9,
+      "text": "Tidak ada yang perlu dibuktikan. Tidak ada tempat yang harus terburu-buru.",
+      "file": "c009.ogg",
+      "durationSec": 11.52
+    },
+    {
+      "index": 10,
+      "text": "[jeda:16]",
+      "file": "c010.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 11,
+      "text": "Kita akan bekerja dengan pernyataan kebebasan yang jelas.",
+      "file": "c011.ogg",
+      "durationSec": 8.232
+    },
+    {
+      "index": 12,
+      "text": "Dengarkan, atau ulangi diam-diam apa yang terasa benar.",
+      "file": "c012.ogg",
+      "durationSec": 8.976
+    },
+    {
+      "index": 13,
+      "text": "[jeda:18]",
+      "file": "c013.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 14,
+      "text": "Saya sekarang adalah non-perokok.",
+      "file": "c014.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 15,
+      "text": "[jeda:16]",
+      "file": "c015.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 16,
+      "text": "Saya sangat senang bisa terbebas dari penyakit nikotin.",
+      "file": "c016.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 17,
+      "text": "[jeda:18]",
+      "file": "c017.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 18,
+      "text": "Merokok tidak lagi menjadi bagian dari hidup atau identitas saya.",
+      "file": "c018.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 19,
+      "text": "[jeda:18]",
+      "file": "c019.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 20,
+      "text": "Saya mendapatkan rangsangan ini karena kenangan masa lalu atau melihat perokok lain.",
+      "file": "c020.ogg",
+      "durationSec": 10.704
+    },
+    {
+      "index": 21,
+      "text": "[jeda:18]",
+      "file": "c021.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 22,
+      "text": "Rangsangan ini tidak bisa berbuat apa-apa terhadap saya, karena saya telah membebaskan diri dari perbudakan kecanduan.",
+      "file": "c022.ogg",
+      "durationSec": 15.12
+    },
+    {
+      "index": 23,
+      "text": "[jeda:22]",
+      "file": "c023.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 24,
+      "text": "Saya merasa kasihan pada perokok yang masih terjebak dalam tipu daya merokok mereka.",
+      "file": "c024.ogg",
+      "durationSec": 10.896
+    },
+    {
+      "index": 25,
+      "text": "Yang terjebak dalam siklus menyedihkan kehabisan nikotin, keinginan, dan pengisian kembali.",
+      "file": "c025.ogg",
+      "durationSec": 12.912
+    },
+    {
+      "index": 26,
+      "text": "[jeda:18]",
+      "file": "c026.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 27,
+      "text": "Saya tidak menderita seperti mereka lagi.",
+      "file": "c027.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 28,
+      "text": "[jeda:14]",
+      "file": "c028.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 29,
+      "text": "Sekarang saya tahu kebenarannya.",
+      "file": "c029.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 30,
+      "text": "Tidak ada manfaat sama sekali dari merokok.",
+      "file": "c030.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 31,
+      "text": "[jeda:18]",
+      "file": "c031.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 32,
+      "text": "Tongkat urin tidak pernah membantu siapa pun, dan tidak akan pernah membantu.",
+      "file": "c032.ogg",
+      "durationSec": 10.464
+    },
+    {
+      "index": 33,
+      "text": "[jeda:18]",
+      "file": "c033.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 34,
+      "text": "Merokok telah menciptakan banyak masalah bagi saya.",
+      "file": "c034.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 35,
+      "text": "[jeda:14]",
+      "file": "c035.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 36,
+      "text": "Saya mengambil keputusan terbaik dalam hidup saya untuk tidak pernah merokok lagi racun menjijikkan itu.",
+      "file": "c036.ogg",
+      "durationSec": 12.84
+    },
+    {
+      "index": 37,
+      "text": "Keputusan itu sudah final.",
+      "file": "c037.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 38,
+      "text": "[jeda:22]",
+      "file": "c038.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 39,
+      "text": "Sekarang, saya menghormati Hukum Merokok.",
+      "file": "c039.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 40,
+      "text": "[jeda:18]",
+      "file": "c040.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 41,
+      "text": "Sekarang, semua situasi saya menjadi lebih baik.",
+      "file": "c041.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 42,
+      "text": "Saya menjadi lebih bahagia, lebih sehat, dan lebih percaya diri.",
+      "file": "c042.ogg",
+      "durationSec": 10.56
+    },
+    {
+      "index": 43,
+      "text": "[jeda:22]",
+      "file": "c043.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 44,
+      "text": "Saya bebas.",
+      "file": "c044.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 45,
+      "text": "[jeda:28]",
+      "file": "c045.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 46,
+      "text": "Beristirahatlah dalam kebebasan itu selama beberapa napas.",
+      "file": "c046.ogg",
+      "durationSec": 8.88
+    },
+    {
+      "index": 47,
+      "text": "Pemicu mungkin masih datang sebagai kenangan lama.",
+      "file": "c047.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 48,
+      "text": "Mereka tidak dapat mengembalikanmu ke perbudakan.",
+      "file": "c048.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 49,
+      "text": "[jeda:36]",
+      "file": "c049.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 50,
+      "text": "Saya sekarang adalah perokok non.",
+      "file": "c050.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 51,
+      "text": "Saya bebas.",
+      "file": "c051.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 52,
+      "text": "[jeda:28]",
+      "file": "c052.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 53,
+      "text": "Ambil satu napas lagi dengan mudah.",
+      "file": "c053.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 54,
+      "text": "Goyangkan jari-jari.",
+      "file": "c054.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 55,
+      "text": "Ketika Anda siap, buka mata.",
+      "file": "c055.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 56,
+      "text": "Bawa kebebasan ini bersama Anda.",
+      "file": "c056.ogg",
+      "durationSec": 6.072
+    }
+  ]
+}
